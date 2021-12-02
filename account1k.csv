@@ -1,0 +1,1001 @@
+id,addr_state,annual_inc,home_ownership,tax_liens,int_rate,term,loan_amnt,loan_status,next_pymnt_d,zip_code,application_type,issue_d,purpose
+0,VA,78000.0,RENT,0.0,12.39,60.0,15000.0,Fully Paid,,235xx,Individual,Dec-2014,debt_consolidation
+1,CA,58000.0,MORTGAGE,0.0,6.99,36.0,10400.0,Charged Off,,937xx,Individual,Dec-2014,credit_card
+2,MO,63800.0,RENT,0.0,15.59,60.0,21425.0,Fully Paid,,658xx,Individual,Dec-2014,credit_card
+3,CA,125000.0,MORTGAGE,0.0,17.14,60.0,12800.0,Current,Jan-2018,953xx,Individual,Dec-2014,car
+4,AZ,50000.0,RENT,0.0,13.66,36.0,7650.0,Charged Off,,850xx,Individual,Dec-2014,debt_consolidation
+5,NJ,69000.0,RENT,0.0,13.66,36.0,9600.0,Fully Paid,,077xx,Individual,Dec-2014,debt_consolidation
+6,MN,89000.0,MORTGAGE,0.0,11.99,36.0,2500.0,Fully Paid,,554xx,Individual,Dec-2014,home_improvement
+7,VA,109777.0,OWN,0.0,11.44,60.0,16000.0,Fully Paid,,201xx,Individual,Dec-2014,debt_consolidation
+8,WA,72000.0,RENT,0.0,14.31,36.0,23325.0,Charged Off,,982xx,Individual,Dec-2014,credit_card
+9,MD,26000.0,RENT,0.0,11.44,36.0,5250.0,Fully Paid,,208xx,Individual,Dec-2014,debt_consolidation
+10,MI,90000.0,RENT,0.0,11.99,36.0,10000.0,Charged Off,,483xx,Individual,Dec-2014,debt_consolidation
+11,FL,60000.0,RENT,0.0,17.86,36.0,12975.0,Charged Off,,331xx,Individual,Dec-2014,house
+12,NY,75000.0,MORTGAGE,0.0,13.66,36.0,17000.0,Fully Paid,,144xx,Individual,Dec-2014,debt_consolidation
+13,IL,55000.0,MORTGAGE,0.0,21.99,60.0,21075.0,Current,Jan-2018,606xx,Individual,Dec-2014,debt_consolidation
+14,KY,120000.0,MORTGAGE,0.0,10.49,36.0,6000.0,Fully Paid,,403xx,Individual,Dec-2014,home_improvement
+15,NY,32200.0,RENT,0.0,14.99,36.0,2000.0,Fully Paid,,112xx,Individual,Dec-2014,credit_card
+16,CA,60000.0,RENT,0.0,10.49,36.0,3000.0,Fully Paid,,926xx,Individual,Dec-2014,medical
+17,AZ,37000.0,RENT,0.0,15.99,36.0,2000.0,Fully Paid,,852xx,Individual,Dec-2014,other
+18,FL,52000.0,RENT,0.0,14.31,36.0,2000.0,Fully Paid,,329xx,Individual,Dec-2014,other
+19,GA,40000.0,OWN,0.0,19.99,60.0,13550.0,Current,Jan-2018,304xx,Individual,Dec-2014,debt_consolidation
+20,TX,84000.0,MORTGAGE,0.0,12.39,36.0,7200.0,Current,Jan-2018,760xx,Individual,Dec-2014,debt_consolidation
+21,TX,42000.0,OWN,0.0,10.49,36.0,14000.0,Current,Jan-2018,754xx,Individual,Dec-2014,credit_card
+22,MN,60000.0,OWN,0.0,12.39,36.0,1000.0,Fully Paid,,567xx,Individual,Dec-2014,other
+23,CA,20000.0,RENT,0.0,14.99,36.0,6000.0,Fully Paid,,960xx,Individual,Dec-2014,debt_consolidation
+24,FL,70000.0,OWN,0.0,11.99,36.0,18000.0,Fully Paid,,333xx,Individual,Dec-2014,debt_consolidation
+25,IN,21312.0,RENT,0.0,12.99,36.0,2000.0,Fully Paid,,463xx,Individual,Dec-2014,medical
+26,IN,42000.0,MORTGAGE,0.0,9.49,36.0,10800.0,Fully Paid,,467xx,Individual,Dec-2014,debt_consolidation
+27,CO,108000.0,MORTGAGE,0.0,14.31,36.0,18450.0,Charged Off,,810xx,Individual,Dec-2014,home_improvement
+28,FL,67000.0,MORTGAGE,0.0,10.49,60.0,28000.0,Fully Paid,,336xx,Individual,Dec-2014,debt_consolidation
+29,NY,50000.0,RENT,0.0,15.99,36.0,4000.0,Fully Paid,,114xx,Individual,Dec-2014,debt_consolidation
+30,TX,48000.0,MORTGAGE,0.0,20.99,60.0,15000.0,Current,Jan-2018,770xx,Individual,Dec-2014,other
+31,AZ,52000.0,MORTGAGE,0.0,10.49,36.0,5000.0,Charged Off,,853xx,Individual,Dec-2014,debt_consolidation
+32,IL,42000.0,MORTGAGE,0.0,7.49,36.0,9600.0,Fully Paid,,629xx,Individual,Dec-2014,debt_consolidation
+33,NC,75000.0,MORTGAGE,0.0,16.49,36.0,3625.0,Fully Paid,,273xx,Individual,Dec-2014,debt_consolidation
+34,AL,84000.0,MORTGAGE,0.0,10.49,36.0,15000.0,Fully Paid,,363xx,Individual,Dec-2014,credit_card
+35,LA,31240.0,RENT,0.0,19.99,36.0,11175.0,Current,Jan-2018,704xx,Individual,Dec-2014,debt_consolidation
+36,CA,120000.0,OWN,0.0,8.67,36.0,21000.0,Fully Paid,,958xx,Individual,Dec-2014,debt_consolidation
+37,CT,70000.0,RENT,0.0,12.39,36.0,8000.0,Fully Paid,,064xx,Individual,Dec-2014,debt_consolidation
+38,NJ,65000.0,MORTGAGE,0.0,9.49,60.0,17600.0,Fully Paid,,077xx,Individual,Dec-2014,credit_card
+39,CT,90000.0,OWN,0.0,15.59,60.0,28000.0,Current,Jan-2018,060xx,Individual,Dec-2014,debt_consolidation
+40,MS,60000.0,MORTGAGE,0.0,12.99,36.0,11000.0,Current,Jan-2018,395xx,Individual,Dec-2014,debt_consolidation
+41,CO,50000.0,RENT,0.0,12.39,36.0,5675.0,Fully Paid,,802xx,Individual,Dec-2014,car
+42,FL,19000.0,RENT,0.0,15.99,36.0,6825.0,Fully Paid,,328xx,Individual,Dec-2014,debt_consolidation
+43,CA,54797.0,RENT,0.0,13.66,36.0,5000.0,Current,Jan-2018,925xx,Individual,Dec-2014,moving
+44,GA,53800.0,RENT,0.0,14.31,36.0,1500.0,Current,Jan-2018,303xx,Individual,Dec-2014,debt_consolidation
+45,NC,84000.0,MORTGAGE,0.0,14.31,60.0,20000.0,Current,Jan-2018,277xx,Individual,Dec-2014,debt_consolidation
+46,KS,85000.0,MORTGAGE,0.0,8.19,36.0,3000.0,Fully Paid,,670xx,Individual,Dec-2014,debt_consolidation
+47,AL,94000.0,MORTGAGE,0.0,10.49,36.0,8000.0,Fully Paid,,358xx,Individual,Dec-2014,debt_consolidation
+48,AZ,40000.0,RENT,0.0,11.99,60.0,15000.0,Current,Jan-2018,853xx,Individual,Dec-2014,debt_consolidation
+49,TX,157000.0,OWN,0.0,9.49,60.0,14000.0,Fully Paid,,770xx,Individual,Dec-2014,debt_consolidation
+50,NY,95000.0,RENT,0.0,12.99,36.0,5000.0,Fully Paid,,130xx,Individual,Dec-2014,house
+51,FL,40000.0,RENT,0.0,17.14,60.0,16000.0,Current,Jan-2018,327xx,Individual,Dec-2014,debt_consolidation
+52,MN,55000.0,MORTGAGE,0.0,6.99,36.0,4200.0,Fully Paid,,560xx,Individual,Dec-2014,debt_consolidation
+53,FL,45000.0,RENT,0.0,16.49,36.0,14000.0,Charged Off,,331xx,Individual,Dec-2014,credit_card
+54,NC,35000.0,OWN,1.0,14.31,36.0,2400.0,Fully Paid,,283xx,Individual,Dec-2014,other
+55,PA,45000.0,OWN,0.0,11.44,36.0,18000.0,Fully Paid,,196xx,Individual,Dec-2014,credit_card
+56,OH,45000.0,MORTGAGE,0.0,11.99,36.0,1000.0,Current,Jan-2018,452xx,Individual,Dec-2014,other
+57,FL,80000.0,MORTGAGE,0.0,11.44,36.0,24000.0,Fully Paid,,324xx,Individual,Dec-2014,credit_card
+58,UT,60000.0,RENT,0.0,17.86,60.0,12000.0,Fully Paid,,841xx,Individual,Dec-2014,debt_consolidation
+59,GA,100000.0,MORTGAGE,0.0,11.99,36.0,20000.0,Fully Paid,,300xx,Individual,Dec-2014,credit_card
+60,AR,46800.0,MORTGAGE,0.0,12.39,60.0,20975.0,Current,Jan-2018,728xx,Individual,Dec-2014,home_improvement
+61,MD,34000.0,OWN,0.0,14.99,36.0,4500.0,Charged Off,,210xx,Individual,Dec-2014,major_purchase
+62,IL,133995.0,OWN,0.0,12.39,60.0,32800.0,Current,Jan-2018,600xx,Individual,Dec-2014,credit_card
+63,NJ,32000.0,RENT,0.0,14.99,36.0,5000.0,Fully Paid,,076xx,Individual,Dec-2014,debt_consolidation
+64,AL,60400.0,OWN,0.0,14.99,60.0,10975.0,Charged Off,,368xx,Individual,Dec-2014,debt_consolidation
+65,KY,75000.0,MORTGAGE,0.0,14.99,36.0,10000.0,Fully Paid,,402xx,Individual,Dec-2014,credit_card
+66,HI,81200.0,MORTGAGE,0.0,21.99,36.0,8750.0,Fully Paid,,967xx,Individual,Dec-2014,moving
+67,MO,32000.0,RENT,0.0,16.49,36.0,9000.0,Current,Jan-2018,631xx,Individual,Dec-2014,debt_consolidation
+68,TX,42000.0,RENT,0.0,11.99,36.0,6000.0,Fully Paid,,787xx,Individual,Dec-2014,debt_consolidation
+69,NM,48500.0,MORTGAGE,0.0,8.19,60.0,21000.0,Fully Paid,,881xx,Individual,Dec-2014,debt_consolidation
+70,OH,117000.0,MORTGAGE,0.0,10.49,36.0,10000.0,Current,Jan-2018,439xx,Individual,Dec-2014,debt_consolidation
+71,FL,60000.0,RENT,0.0,22.99,60.0,27525.0,Fully Paid,,333xx,Individual,Dec-2014,debt_consolidation
+72,VA,42500.0,RENT,0.0,8.19,36.0,2400.0,Fully Paid,,232xx,Individual,Dec-2014,debt_consolidation
+73,NY,82000.0,RENT,0.0,12.99,36.0,12000.0,Fully Paid,,130xx,Individual,Dec-2014,debt_consolidation
+74,CA,40000.0,RENT,0.0,10.49,36.0,4600.0,Fully Paid,,900xx,Individual,Dec-2014,debt_consolidation
+75,NY,60000.0,RENT,0.0,13.66,60.0,24000.0,Current,Jan-2018,117xx,Individual,Dec-2014,debt_consolidation
+76,VA,45800.0,RENT,0.0,10.49,36.0,6400.0,Fully Paid,,201xx,Individual,Dec-2014,credit_card
+77,IL,43000.0,RENT,0.0,15.99,36.0,18000.0,Fully Paid,,620xx,Individual,Dec-2014,debt_consolidation
+78,TX,155000.0,RENT,0.0,9.49,36.0,24000.0,Fully Paid,,774xx,Individual,Dec-2014,credit_card
+79,AZ,75000.0,MORTGAGE,0.0,12.99,36.0,21000.0,Current,Jan-2018,863xx,Individual,Dec-2014,credit_card
+80,VA,109000.0,MORTGAGE,0.0,9.49,36.0,2800.0,Fully Paid,,234xx,Individual,Dec-2014,home_improvement
+81,NY,41000.0,RENT,0.0,18.54,60.0,13375.0,Current,Jan-2018,104xx,Individual,Dec-2014,credit_card
+82,NH,45000.0,RENT,0.0,13.66,36.0,15000.0,Fully Paid,,032xx,Individual,Dec-2014,debt_consolidation
+83,TX,48000.0,MORTGAGE,0.0,11.44,36.0,13000.0,Fully Paid,,789xx,Individual,Dec-2014,debt_consolidation
+84,VA,78800.0,RENT,0.0,17.86,36.0,35000.0,Fully Paid,,223xx,Individual,Dec-2014,debt_consolidation
+85,MD,385000.0,MORTGAGE,0.0,9.49,36.0,35000.0,Fully Paid,,210xx,Individual,Dec-2014,credit_card
+86,MI,66000.0,MORTGAGE,0.0,8.19,36.0,15000.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+87,TN,25000.0,RENT,0.0,14.99,36.0,7500.0,Fully Paid,,379xx,Individual,Dec-2014,debt_consolidation
+88,FL,16344.0,RENT,0.0,10.49,36.0,5500.0,Charged Off,,331xx,Individual,Dec-2014,debt_consolidation
+89,AL,55000.0,MORTGAGE,0.0,20.99,60.0,19200.0,Fully Paid,,356xx,Individual,Dec-2014,debt_consolidation
+90,TX,74300.0,MORTGAGE,0.0,17.14,60.0,12000.0,Fully Paid,,787xx,Individual,Dec-2014,credit_card
+91,CA,99789.0,RENT,0.0,17.86,36.0,28000.0,Current,Jan-2018,907xx,Individual,Dec-2014,debt_consolidation
+92,FL,55000.0,OWN,0.0,19.24,60.0,24000.0,Fully Paid,,337xx,Individual,Dec-2014,home_improvement
+93,MN,48000.0,MORTGAGE,0.0,15.99,60.0,15600.0,Fully Paid,,560xx,Individual,Dec-2014,debt_consolidation
+94,TX,45000.0,MORTGAGE,0.0,12.39,36.0,5000.0,Fully Paid,,750xx,Individual,Dec-2014,debt_consolidation
+95,MA,74500.0,RENT,0.0,17.14,60.0,22200.0,Charged Off,,015xx,Individual,Dec-2014,debt_consolidation
+96,FL,29000.0,RENT,0.0,13.66,36.0,10375.0,Fully Paid,,347xx,Individual,Dec-2014,debt_consolidation
+97,IL,100000.0,MORTGAGE,0.0,14.31,36.0,5000.0,Fully Paid,,601xx,Individual,Dec-2014,debt_consolidation
+98,CT,108150.0,MORTGAGE,0.0,6.99,36.0,15000.0,Current,Jan-2018,064xx,Individual,Dec-2014,debt_consolidation
+99,MO,33000.0,MORTGAGE,0.0,11.44,36.0,5000.0,Current,Jan-2018,637xx,Individual,Dec-2014,credit_card
+100,WV,32500.0,RENT,0.0,11.99,36.0,6000.0,Current,Jan-2018,265xx,Individual,Dec-2014,debt_consolidation
+101,KS,75000.0,MORTGAGE,0.0,9.49,36.0,19000.0,Current,Jan-2018,672xx,Individual,Dec-2014,credit_card
+102,GA,175000.0,MORTGAGE,0.0,8.19,60.0,28000.0,Fully Paid,,303xx,Individual,Dec-2014,credit_card
+103,NJ,91000.0,RENT,0.0,15.99,60.0,35000.0,Fully Paid,,080xx,Individual,Dec-2014,debt_consolidation
+104,NY,109000.0,MORTGAGE,0.0,11.44,36.0,18000.0,Current,Jan-2018,117xx,Individual,Dec-2014,debt_consolidation
+105,MI,26000.0,MORTGAGE,0.0,12.39,36.0,6000.0,Current,Jan-2018,481xx,Individual,Dec-2014,debt_consolidation
+106,CO,80000.0,MORTGAGE,0.0,12.99,36.0,16000.0,Charged Off,,800xx,Individual,Dec-2014,debt_consolidation
+107,OH,95000.0,MORTGAGE,0.0,14.99,36.0,28000.0,Fully Paid,,442xx,Individual,Dec-2014,debt_consolidation
+108,SD,92000.0,MORTGAGE,0.0,13.66,36.0,5600.0,Fully Paid,,574xx,Individual,Dec-2014,debt_consolidation
+109,CA,133000.0,MORTGAGE,0.0,14.31,36.0,3000.0,Fully Paid,,922xx,Individual,Dec-2014,other
+110,GA,59103.0,MORTGAGE,0.0,18.54,60.0,12600.0,Fully Paid,,310xx,Individual,Dec-2014,debt_consolidation
+111,CA,50000.0,RENT,0.0,12.39,36.0,8000.0,Fully Paid,,951xx,Individual,Dec-2014,debt_consolidation
+112,CT,45000.0,RENT,0.0,12.39,36.0,8000.0,Current,Jan-2018,064xx,Individual,Dec-2014,credit_card
+113,NM,52080.0,MORTGAGE,0.0,13.66,36.0,4800.0,Fully Paid,,871xx,Individual,Dec-2014,debt_consolidation
+114,TX,65000.0,MORTGAGE,0.0,15.59,36.0,22500.0,Fully Paid,,762xx,Individual,Dec-2014,debt_consolidation
+115,NM,56719.0,MORTGAGE,0.0,25.83,60.0,16950.0,Charged Off,,871xx,Individual,Dec-2014,debt_consolidation
+116,TX,75000.0,MORTGAGE,0.0,18.54,36.0,16375.0,Fully Paid,,750xx,Individual,Dec-2014,debt_consolidation
+117,CA,35000.0,OWN,0.0,15.99,36.0,3000.0,Fully Paid,,917xx,Individual,Dec-2014,other
+118,GA,65000.0,MORTGAGE,0.0,12.39,36.0,5000.0,Charged Off,,300xx,Individual,Dec-2014,home_improvement
+119,MA,140000.0,MORTGAGE,0.0,16.49,60.0,21000.0,Current,Jan-2018,015xx,Individual,Dec-2014,credit_card
+120,KY,39926.0,MORTGAGE,0.0,16.49,36.0,8000.0,Fully Paid,,410xx,Individual,Dec-2014,home_improvement
+121,NY,21000.0,RENT,0.0,14.31,36.0,6700.0,Fully Paid,,112xx,Individual,Dec-2014,credit_card
+122,GA,140000.0,MORTGAGE,0.0,8.67,60.0,12000.0,Current,Jan-2018,300xx,Individual,Dec-2014,credit_card
+123,PA,65000.0,MORTGAGE,0.0,14.99,36.0,3000.0,Fully Paid,,179xx,Individual,Dec-2014,debt_consolidation
+124,NJ,80000.0,RENT,0.0,10.49,36.0,18700.0,Fully Paid,,077xx,Individual,Dec-2014,debt_consolidation
+125,MA,68000.0,RENT,0.0,12.99,36.0,26000.0,Current,Jan-2018,023xx,Individual,Dec-2014,debt_consolidation
+126,CO,45000.0,RENT,0.0,11.99,36.0,7000.0,Fully Paid,,802xx,Individual,Dec-2014,credit_card
+127,MD,148000.0,MORTGAGE,0.0,11.44,36.0,21000.0,Fully Paid,,207xx,Individual,Dec-2014,debt_consolidation
+128,FL,63000.0,MORTGAGE,0.0,18.54,60.0,15000.0,Current,Jan-2018,330xx,Individual,Dec-2014,debt_consolidation
+129,MA,70000.0,RENT,0.0,17.86,36.0,6850.0,Current,Jan-2018,016xx,Individual,Dec-2014,vacation
+130,TX,53000.0,RENT,0.0,8.19,36.0,1200.0,Current,Jan-2018,751xx,Individual,Dec-2014,credit_card
+131,CA,113000.0,MORTGAGE,0.0,6.99,36.0,13400.0,Fully Paid,,928xx,Individual,Dec-2014,debt_consolidation
+132,AZ,83000.0,MORTGAGE,0.0,11.44,36.0,1000.0,Fully Paid,,857xx,Individual,Dec-2014,medical
+133,MI,70000.0,RENT,0.0,16.49,36.0,2400.0,Fully Paid,,494xx,Individual,Dec-2014,debt_consolidation
+134,UT,55000.0,RENT,0.0,11.99,36.0,14575.0,Fully Paid,,840xx,Individual,Dec-2014,debt_consolidation
+135,NJ,73000.0,MORTGAGE,0.0,9.49,36.0,14000.0,Fully Paid,,088xx,Individual,Dec-2014,debt_consolidation
+136,CA,105000.0,MORTGAGE,0.0,12.39,36.0,16400.0,Fully Paid,,953xx,Individual,Dec-2014,other
+137,CA,130000.0,MORTGAGE,0.0,10.49,36.0,8000.0,Current,Jan-2018,916xx,Individual,Dec-2014,debt_consolidation
+138,OK,61972.0,MORTGAGE,4.0,25.8,60.0,27200.0,Charged Off,,730xx,Individual,Dec-2014,debt_consolidation
+139,VA,70000.0,MORTGAGE,0.0,24.5,60.0,22400.0,Charged Off,,234xx,Individual,Dec-2014,debt_consolidation
+140,TX,65000.0,MORTGAGE,0.0,17.86,36.0,22000.0,Current,Jan-2018,782xx,Individual,Dec-2014,debt_consolidation
+141,PA,50000.0,MORTGAGE,0.0,15.59,36.0,20000.0,Charged Off,,189xx,Individual,Dec-2014,credit_card
+142,SC,30371.0,MORTGAGE,0.0,12.99,36.0,2850.0,Fully Paid,,294xx,Individual,Dec-2014,debt_consolidation
+143,SD,24000.0,MORTGAGE,0.0,8.19,36.0,4000.0,Fully Paid,,571xx,Individual,Dec-2014,home_improvement
+144,PA,62000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,170xx,Individual,Dec-2014,debt_consolidation
+145,FL,44200.0,RENT,0.0,15.59,36.0,15850.0,Charged Off,,328xx,Individual,Dec-2014,credit_card
+146,OR,65000.0,MORTGAGE,0.0,17.86,36.0,6150.0,Fully Paid,,975xx,Individual,Dec-2014,debt_consolidation
+147,AK,68000.0,RENT,0.0,17.14,60.0,25000.0,Current,Jan-2018,995xx,Individual,Dec-2014,debt_consolidation
+148,VA,77000.0,RENT,0.0,14.99,60.0,10000.0,Fully Paid,,236xx,Individual,Dec-2014,debt_consolidation
+149,PA,125000.0,MORTGAGE,0.0,11.44,60.0,28000.0,Fully Paid,,190xx,Individual,Dec-2014,credit_card
+150,MD,100000.0,RENT,0.0,12.39,36.0,12000.0,Fully Paid,,217xx,Individual,Dec-2014,debt_consolidation
+151,AZ,35000.0,RENT,0.0,9.49,36.0,17500.0,Fully Paid,,857xx,Individual,Dec-2014,debt_consolidation
+152,MD,106500.0,MORTGAGE,0.0,23.99,60.0,10200.0,Charged Off,,206xx,Individual,Dec-2014,medical
+153,CA,50000.0,RENT,0.0,13.66,36.0,3000.0,Fully Paid,,902xx,Individual,Dec-2014,major_purchase
+154,CA,68000.0,RENT,1.0,15.99,36.0,7500.0,Fully Paid,,949xx,Individual,Dec-2014,debt_consolidation
+155,AZ,50000.0,RENT,0.0,10.49,36.0,6500.0,Current,Jan-2018,850xx,Individual,Dec-2014,debt_consolidation
+156,CA,37400.0,RENT,0.0,18.54,60.0,10000.0,Current,Jan-2018,945xx,Individual,Dec-2014,credit_card
+157,MN,85000.0,MORTGAGE,0.0,10.49,60.0,26400.0,Charged Off,,553xx,Individual,Dec-2014,debt_consolidation
+158,WA,40000.0,RENT,0.0,15.99,36.0,9000.0,Fully Paid,,981xx,Individual,Dec-2014,debt_consolidation
+159,NY,70000.0,MORTGAGE,0.0,19.24,60.0,14400.0,Charged Off,,105xx,Individual,Dec-2014,debt_consolidation
+160,TX,91000.0,MORTGAGE,0.0,17.14,60.0,18000.0,Charged Off,,750xx,Individual,Dec-2014,debt_consolidation
+161,NM,40000.0,RENT,0.0,14.31,60.0,11200.0,Current,Jan-2018,880xx,Individual,Dec-2014,debt_consolidation
+162,NY,262000.0,MORTGAGE,0.0,12.39,60.0,30000.0,Current,Jan-2018,100xx,Individual,Dec-2014,credit_card
+163,TX,80000.0,MORTGAGE,0.0,6.99,36.0,15000.0,Current,Jan-2018,785xx,Individual,Dec-2014,debt_consolidation
+164,TN,48500.0,OWN,0.0,11.99,36.0,5000.0,Current,Jan-2018,372xx,Individual,Dec-2014,medical
+165,TX,254000.0,MORTGAGE,0.0,14.31,60.0,20000.0,Current,Jan-2018,750xx,Individual,Dec-2014,home_improvement
+166,WA,27800.0,RENT,0.0,13.66,60.0,13825.0,Current,Jan-2018,981xx,Individual,Dec-2014,debt_consolidation
+167,TX,70000.0,MORTGAGE,0.0,15.59,36.0,2000.0,Fully Paid,,751xx,Individual,Dec-2014,medical
+168,CA,120000.0,MORTGAGE,0.0,6.03,36.0,24000.0,Fully Paid,,957xx,Individual,Dec-2014,credit_card
+169,TX,44000.0,MORTGAGE,0.0,18.54,60.0,19350.0,Fully Paid,,785xx,Individual,Dec-2014,debt_consolidation
+170,TX,18868.8,RENT,0.0,16.49,36.0,5000.0,Fully Paid,,781xx,Individual,Dec-2014,debt_consolidation
+171,FL,46300.0,RENT,0.0,12.39,36.0,17000.0,Fully Paid,,328xx,Individual,Dec-2014,major_purchase
+172,CT,205000.0,OWN,0.0,8.67,60.0,21000.0,Current,Jan-2018,064xx,Individual,Dec-2014,credit_card
+173,PA,45000.0,MORTGAGE,0.0,10.49,60.0,10000.0,Fully Paid,,166xx,Individual,Dec-2014,credit_card
+174,CA,150000.0,MORTGAGE,0.0,18.54,60.0,35000.0,Fully Paid,,945xx,Individual,Dec-2014,debt_consolidation
+175,IL,75000.0,MORTGAGE,0.0,8.19,36.0,12000.0,Fully Paid,,604xx,Individual,Dec-2014,debt_consolidation
+176,AL,72000.0,MORTGAGE,0.0,18.54,36.0,35000.0,Fully Paid,,350xx,Individual,Dec-2014,home_improvement
+177,OR,68000.0,RENT,0.0,11.44,36.0,12000.0,Fully Paid,,971xx,Individual,Dec-2014,debt_consolidation
+178,SC,50000.0,MORTGAGE,0.0,6.03,36.0,5000.0,Fully Paid,,290xx,Individual,Dec-2014,debt_consolidation
+179,NY,58792.0,MORTGAGE,0.0,6.49,36.0,14000.0,Fully Paid,,145xx,Individual,Dec-2014,credit_card
+180,VA,60000.0,MORTGAGE,0.0,17.14,60.0,11325.0,Fully Paid,,231xx,Individual,Dec-2014,debt_consolidation
+181,PA,62000.0,OWN,0.0,15.59,36.0,19500.0,Charged Off,,191xx,Individual,Dec-2014,debt_consolidation
+182,CT,46000.0,RENT,0.0,19.24,60.0,16475.0,Charged Off,,060xx,Individual,Dec-2014,debt_consolidation
+183,GA,86500.0,MORTGAGE,0.0,11.99,60.0,28000.0,Current,Jan-2018,302xx,Individual,Dec-2014,debt_consolidation
+184,PA,37000.0,MORTGAGE,0.0,12.99,60.0,18500.0,Current,Jan-2018,193xx,Individual,Dec-2014,credit_card
+185,AZ,60000.0,MORTGAGE,0.0,19.24,36.0,19150.0,Fully Paid,,850xx,Individual,Dec-2014,other
+186,OH,70000.0,OWN,0.0,10.49,60.0,21000.0,Current,Jan-2018,447xx,Individual,Dec-2014,debt_consolidation
+187,CA,125000.0,RENT,0.0,23.99,36.0,33950.0,Charged Off,,902xx,Individual,Dec-2014,small_business
+188,CA,120000.0,RENT,0.0,14.99,36.0,11775.0,Current,Jan-2018,953xx,Individual,Dec-2014,debt_consolidation
+189,NY,35000.0,RENT,0.0,9.49,36.0,10000.0,Fully Paid,,114xx,Individual,Dec-2014,debt_consolidation
+190,NY,23000.0,RENT,0.0,15.59,36.0,8250.0,Charged Off,,109xx,Individual,Dec-2014,debt_consolidation
+191,AZ,34000.0,RENT,0.0,8.67,36.0,4200.0,Fully Paid,,850xx,Individual,Dec-2014,other
+192,FL,33000.0,MORTGAGE,0.0,14.99,60.0,13825.0,Charged Off,,322xx,Individual,Dec-2014,debt_consolidation
+193,TX,55000.0,RENT,0.0,17.14,60.0,16000.0,Current,Jan-2018,750xx,Individual,Dec-2014,medical
+194,TX,90000.0,OWN,0.0,10.49,36.0,20000.0,Current,Jan-2018,770xx,Individual,Dec-2014,other
+195,OR,56000.0,MORTGAGE,0.0,15.99,36.0,23475.0,Fully Paid,,972xx,Individual,Dec-2014,debt_consolidation
+196,TX,70000.0,MORTGAGE,0.0,11.99,36.0,10000.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+197,CA,32000.0,RENT,0.0,14.31,36.0,2000.0,Fully Paid,,939xx,Individual,Dec-2014,medical
+198,VA,115000.0,MORTGAGE,0.0,14.99,36.0,28000.0,Fully Paid,,223xx,Individual,Dec-2014,credit_card
+199,TX,24000.0,RENT,0.0,15.59,36.0,3375.0,Charged Off,,783xx,Individual,Dec-2014,debt_consolidation
+200,TX,34652.0,MORTGAGE,0.0,11.99,36.0,5000.0,Fully Paid,,761xx,Individual,Dec-2014,home_improvement
+201,CO,65550.0,RENT,0.0,10.49,36.0,8000.0,Current,Jan-2018,803xx,Individual,Dec-2014,credit_card
+202,IN,50000.0,MORTGAGE,0.0,19.24,60.0,10000.0,Charged Off,,462xx,Individual,Dec-2014,debt_consolidation
+203,NY,43000.0,OWN,0.0,12.39,36.0,5000.0,Fully Paid,,100xx,Individual,Dec-2014,home_improvement
+204,NM,102000.0,MORTGAGE,1.0,25.89,60.0,35000.0,Charged Off,,871xx,Individual,Dec-2014,debt_consolidation
+205,CA,40000.0,OWN,0.0,9.49,36.0,11850.0,Charged Off,,908xx,Individual,Dec-2014,debt_consolidation
+206,MN,63984.0,MORTGAGE,0.0,18.54,36.0,3525.0,Fully Paid,,563xx,Individual,Dec-2014,debt_consolidation
+207,AR,61000.0,RENT,0.0,12.99,36.0,12000.0,Current,Jan-2018,721xx,Individual,Dec-2014,debt_consolidation
+208,CA,92500.0,RENT,0.0,13.66,36.0,8500.0,Current,Jan-2018,927xx,Individual,Dec-2014,medical
+209,TN,40000.0,RENT,0.0,11.44,36.0,8325.0,Fully Paid,,370xx,Individual,Dec-2014,debt_consolidation
+210,NJ,140000.0,MORTGAGE,0.0,8.67,36.0,9500.0,Current,Jan-2018,070xx,Individual,Dec-2014,debt_consolidation
+211,CA,83000.0,RENT,0.0,9.49,36.0,6000.0,Current,Jan-2018,920xx,Individual,Dec-2014,credit_card
+212,TX,160000.0,RENT,0.0,12.39,36.0,35000.0,Fully Paid,,770xx,Individual,Dec-2014,debt_consolidation
+213,KY,60000.0,MORTGAGE,0.0,18.54,60.0,20000.0,Current,Jan-2018,402xx,Individual,Dec-2014,debt_consolidation
+214,CA,125000.0,MORTGAGE,0.0,13.66,36.0,21000.0,Current,Jan-2018,920xx,Individual,Dec-2014,debt_consolidation
+215,OK,58000.0,MORTGAGE,0.0,13.66,36.0,9000.0,Fully Paid,,735xx,Individual,Dec-2014,debt_consolidation
+216,CA,75000.0,OWN,0.0,6.99,36.0,7000.0,Fully Paid,,902xx,Individual,Dec-2014,home_improvement
+217,OK,80000.0,RENT,0.0,14.31,36.0,24000.0,Charged Off,,730xx,Individual,Dec-2014,debt_consolidation
+218,AZ,75000.0,MORTGAGE,0.0,6.99,36.0,15000.0,Fully Paid,,853xx,Individual,Dec-2014,debt_consolidation
+219,LA,80000.0,RENT,0.0,14.99,36.0,7000.0,Fully Paid,,707xx,Individual,Dec-2014,debt_consolidation
+220,CA,47200.0,RENT,0.0,11.44,36.0,3750.0,Fully Paid,,919xx,Individual,Dec-2014,debt_consolidation
+221,NV,45000.0,RENT,0.0,17.86,60.0,12000.0,Current,Jan-2018,891xx,Individual,Dec-2014,debt_consolidation
+222,NJ,82000.0,MORTGAGE,0.0,15.59,60.0,35000.0,Fully Paid,,086xx,Individual,Dec-2014,debt_consolidation
+223,MI,65000.0,RENT,0.0,13.66,60.0,20000.0,Current,Jan-2018,497xx,Individual,Dec-2014,debt_consolidation
+224,WA,65000.0,MORTGAGE,0.0,17.86,60.0,18450.0,Current,Jan-2018,980xx,Individual,Dec-2014,credit_card
+225,PA,82000.0,MORTGAGE,0.0,8.67,36.0,13500.0,Fully Paid,,191xx,Individual,Dec-2014,credit_card
+226,WA,24000.0,MORTGAGE,1.0,18.54,36.0,3075.0,Fully Paid,,988xx,Individual,Dec-2014,debt_consolidation
+227,GA,29440.0,MORTGAGE,0.0,17.14,60.0,10000.0,Current,Jan-2018,300xx,Individual,Dec-2014,debt_consolidation
+228,LA,20000.0,OWN,0.0,16.49,36.0,7175.0,Charged Off,,708xx,Individual,Dec-2014,debt_consolidation
+229,IL,70000.0,OWN,0.0,25.8,60.0,27975.0,Fully Paid,,606xx,Individual,Dec-2014,other
+230,MA,62000.0,RENT,0.0,12.99,36.0,12000.0,Fully Paid,,019xx,Individual,Dec-2014,credit_card
+231,NJ,70000.0,MORTGAGE,0.0,16.49,36.0,20000.0,Fully Paid,,070xx,Individual,Dec-2014,home_improvement
+232,NY,96000.0,RENT,0.0,13.66,36.0,18000.0,Fully Paid,,113xx,Individual,Dec-2014,debt_consolidation
+233,NC,45500.0,MORTGAGE,0.0,6.99,36.0,10000.0,Fully Paid,,276xx,Individual,Dec-2014,credit_card
+234,CA,145000.0,MORTGAGE,0.0,13.66,60.0,20000.0,Fully Paid,,912xx,Individual,Dec-2014,home_improvement
+235,NY,78000.0,MORTGAGE,0.0,17.86,36.0,24000.0,Fully Paid,,123xx,Individual,Dec-2014,debt_consolidation
+236,NY,40000.0,RENT,0.0,11.99,36.0,6400.0,Current,Jan-2018,104xx,Individual,Dec-2014,other
+237,TX,101000.0,MORTGAGE,0.0,18.54,60.0,25000.0,Fully Paid,,785xx,Individual,Dec-2014,debt_consolidation
+238,GA,65000.0,MORTGAGE,0.0,7.49,36.0,2000.0,Current,Jan-2018,310xx,Individual,Dec-2014,major_purchase
+239,VA,117000.0,RENT,0.0,19.99,60.0,22000.0,Fully Paid,,201xx,Individual,Dec-2014,debt_consolidation
+240,OH,160000.0,MORTGAGE,0.0,14.99,36.0,35000.0,Fully Paid,,440xx,Individual,Dec-2014,credit_card
+241,TX,67650.0,MORTGAGE,0.0,15.59,60.0,23000.0,Fully Paid,,780xx,Individual,Dec-2014,debt_consolidation
+242,TX,40000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,760xx,Individual,Dec-2014,other
+243,CO,120000.0,RENT,0.0,17.86,60.0,31000.0,Charged Off,,800xx,Individual,Dec-2014,debt_consolidation
+244,CA,130000.0,MORTGAGE,0.0,8.19,36.0,22500.0,Fully Paid,,906xx,Individual,Dec-2014,home_improvement
+245,CA,50000.0,RENT,0.0,15.99,36.0,4000.0,Fully Paid,,946xx,Individual,Dec-2014,debt_consolidation
+246,VT,42000.0,OWN,0.0,14.31,36.0,2000.0,Fully Paid,,057xx,Individual,Dec-2014,other
+247,FL,45000.0,OWN,0.0,15.59,36.0,3000.0,Fully Paid,,331xx,Individual,Dec-2014,credit_card
+248,GA,94000.0,RENT,0.0,11.44,36.0,19200.0,Fully Paid,,303xx,Individual,Dec-2014,debt_consolidation
+249,LA,50000.0,RENT,0.0,22.99,60.0,16950.0,Fully Paid,,700xx,Individual,Dec-2014,debt_consolidation
+250,CA,80000.0,MORTGAGE,0.0,15.99,60.0,13425.0,Current,Jan-2018,935xx,Individual,Dec-2014,debt_consolidation
+251,CT,93000.0,MORTGAGE,0.0,12.39,36.0,6000.0,Fully Paid,,069xx,Individual,Dec-2014,other
+252,GA,60000.0,MORTGAGE,0.0,12.99,36.0,2000.0,Fully Paid,,300xx,Individual,Dec-2014,debt_consolidation
+253,MA,57000.0,MORTGAGE,0.0,19.99,60.0,26150.0,Fully Paid,,020xx,Individual,Dec-2014,debt_consolidation
+254,DC,66000.0,RENT,0.0,12.99,36.0,2500.0,Fully Paid,,200xx,Individual,Dec-2014,medical
+255,OH,60000.0,MORTGAGE,0.0,14.31,60.0,12000.0,Fully Paid,,450xx,Individual,Dec-2014,credit_card
+256,NY,65000.0,MORTGAGE,0.0,18.54,60.0,23925.0,Current,Jan-2018,125xx,Individual,Dec-2014,debt_consolidation
+257,TX,58000.0,MORTGAGE,0.0,6.99,36.0,5500.0,Fully Paid,,752xx,Individual,Dec-2014,debt_consolidation
+258,GA,47000.0,RENT,0.0,14.99,36.0,9600.0,Fully Paid,,300xx,Individual,Dec-2014,credit_card
+259,NJ,80000.0,MORTGAGE,0.0,7.49,36.0,12000.0,Fully Paid,,070xx,Individual,Dec-2014,debt_consolidation
+260,CA,64000.0,OWN,0.0,11.99,60.0,15000.0,Current,Jan-2018,913xx,Individual,Dec-2014,debt_consolidation
+261,NJ,60000.0,OWN,0.0,22.99,60.0,13225.0,Charged Off,,089xx,Individual,Dec-2014,debt_consolidation
+262,CT,120000.0,OWN,0.0,11.44,60.0,27000.0,Current,Jan-2018,067xx,Individual,Dec-2014,home_improvement
+263,RI,66000.0,MORTGAGE,0.0,12.39,36.0,6000.0,Fully Paid,,028xx,Individual,Dec-2014,debt_consolidation
+264,NY,148000.0,OWN,0.0,8.19,36.0,35000.0,Fully Paid,,140xx,Individual,Dec-2014,debt_consolidation
+265,WA,46000.0,RENT,0.0,11.44,36.0,15000.0,Charged Off,,984xx,Individual,Dec-2014,credit_card
+266,CA,68200.0,RENT,0.0,11.99,36.0,12000.0,Fully Paid,,944xx,Individual,Dec-2014,other
+267,FL,90000.0,MORTGAGE,0.0,13.66,60.0,10000.0,Current,Jan-2018,331xx,Individual,Dec-2014,credit_card
+268,KS,51000.0,MORTGAGE,0.0,12.99,36.0,12800.0,Fully Paid,,660xx,Individual,Dec-2014,debt_consolidation
+269,NY,130000.0,MORTGAGE,0.0,11.99,36.0,34000.0,Fully Paid,,114xx,Individual,Dec-2014,credit_card
+270,NC,125000.0,RENT,0.0,11.99,36.0,4000.0,Fully Paid,,282xx,Individual,Dec-2014,other
+271,CA,45000.0,RENT,0.0,17.86,36.0,13475.0,Charged Off,,921xx,Individual,Dec-2014,debt_consolidation
+272,WA,47207.0,MORTGAGE,0.0,10.49,36.0,14000.0,Fully Paid,,993xx,Individual,Dec-2014,debt_consolidation
+273,PA,60000.0,OWN,0.0,7.49,36.0,2600.0,Fully Paid,,191xx,Individual,Dec-2014,credit_card
+274,CA,55664.0,OWN,0.0,21.99,60.0,23325.0,Fully Paid,,900xx,Individual,Dec-2014,home_improvement
+275,VA,40000.0,RENT,0.0,10.49,36.0,11500.0,Fully Paid,,220xx,Individual,Dec-2014,debt_consolidation
+276,IN,60000.0,RENT,0.0,8.67,36.0,20000.0,Fully Paid,,466xx,Individual,Dec-2014,credit_card
+277,WA,26880.0,RENT,0.0,14.31,36.0,7675.0,Charged Off,,983xx,Individual,Dec-2014,debt_consolidation
+278,TX,20000.0,RENT,0.0,14.99,36.0,7000.0,Fully Paid,,752xx,Individual,Dec-2014,car
+279,CA,75000.0,MORTGAGE,0.0,10.49,60.0,25000.0,Fully Paid,,926xx,Individual,Dec-2014,debt_consolidation
+280,CA,50000.0,RENT,0.0,12.99,36.0,9000.0,Fully Paid,,902xx,Individual,Dec-2014,small_business
+281,MI,44000.0,MORTGAGE,0.0,12.99,36.0,10000.0,Current,Jan-2018,494xx,Individual,Dec-2014,debt_consolidation
+282,CA,75132.0,RENT,0.0,12.39,36.0,7500.0,Fully Paid,,921xx,Individual,Dec-2014,moving
+283,NY,38000.0,RENT,0.0,12.39,36.0,6000.0,Fully Paid,,112xx,Individual,Dec-2014,debt_consolidation
+284,SC,28500.0,OWN,0.0,14.31,36.0,4800.0,Fully Paid,,294xx,Individual,Dec-2014,debt_consolidation
+285,PA,80000.0,RENT,0.0,11.44,60.0,20000.0,Fully Paid,,190xx,Individual,Dec-2014,credit_card
+286,TX,91000.0,RENT,0.0,19.24,60.0,12000.0,Current,Jan-2018,761xx,Individual,Dec-2014,debt_consolidation
+287,IL,39500.0,RENT,0.0,11.44,36.0,3500.0,Fully Paid,,606xx,Individual,Dec-2014,vacation
+288,LA,26000.0,RENT,0.0,12.39,36.0,2000.0,Fully Paid,,708xx,Individual,Dec-2014,other
+289,TX,47500.0,OWN,0.0,18.54,36.0,16150.0,Fully Paid,,756xx,Individual,Dec-2014,debt_consolidation
+290,NJ,98000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,074xx,Individual,Dec-2014,debt_consolidation
+291,MI,21600.0,OWN,0.0,14.99,36.0,2000.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+292,IN,67000.0,MORTGAGE,0.0,12.39,36.0,19000.0,Fully Paid,,463xx,Individual,Dec-2014,debt_consolidation
+293,NC,32500.0,RENT,0.0,14.31,36.0,11675.0,Current,Jan-2018,282xx,Individual,Dec-2014,debt_consolidation
+294,NC,23000.0,RENT,0.0,12.99,36.0,6000.0,Fully Paid,,282xx,Individual,Dec-2014,credit_card
+295,FL,64000.0,MORTGAGE,0.0,11.44,60.0,16000.0,Fully Paid,,333xx,Individual,Dec-2014,credit_card
+296,CA,60000.0,OWN,0.0,13.66,36.0,2650.0,Current,Jan-2018,939xx,Individual,Dec-2014,credit_card
+297,MO,50000.0,MORTGAGE,0.0,16.49,60.0,13000.0,Current,Jan-2018,654xx,Individual,Dec-2014,other
+298,SC,200000.0,MORTGAGE,0.0,14.31,36.0,15000.0,Current,Jan-2018,297xx,Individual,Dec-2014,debt_consolidation
+299,NV,40000.0,OWN,0.0,10.49,36.0,4000.0,Fully Paid,,891xx,Individual,Dec-2014,home_improvement
+300,NY,75000.0,RENT,0.0,11.99,36.0,12000.0,Fully Paid,,113xx,Individual,Dec-2014,credit_card
+301,AL,60000.0,RENT,0.0,15.59,36.0,3000.0,Fully Paid,,363xx,Individual,Dec-2014,vacation
+302,IL,65000.0,MORTGAGE,0.0,11.44,36.0,20000.0,Charged Off,,627xx,Individual,Dec-2014,credit_card
+303,LA,59000.0,RENT,0.0,14.99,60.0,10000.0,Fully Paid,,705xx,Individual,Dec-2014,debt_consolidation
+304,TX,580000.0,MORTGAGE,0.0,11.44,36.0,15000.0,Fully Paid,,787xx,Individual,Dec-2014,home_improvement
+305,TX,50000.0,MORTGAGE,0.0,14.99,60.0,20000.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+306,FL,65000.0,MORTGAGE,0.0,12.39,36.0,2000.0,Fully Paid,,327xx,Individual,Dec-2014,credit_card
+307,IL,90000.0,RENT,0.0,13.66,60.0,35000.0,Charged Off,,607xx,Individual,Dec-2014,debt_consolidation
+308,IN,35000.0,RENT,1.0,12.99,36.0,7000.0,Fully Paid,,463xx,Individual,Dec-2014,home_improvement
+309,TN,55000.0,MORTGAGE,0.0,12.39,36.0,5000.0,Current,Jan-2018,373xx,Individual,Dec-2014,debt_consolidation
+310,FL,67000.0,MORTGAGE,0.0,16.49,36.0,19425.0,Fully Paid,,321xx,Individual,Dec-2014,debt_consolidation
+311,FL,58000.0,MORTGAGE,0.0,18.54,60.0,18450.0,Fully Paid,,330xx,Individual,Dec-2014,credit_card
+312,AZ,203000.0,RENT,0.0,6.03,36.0,20000.0,Fully Paid,,850xx,Individual,Dec-2014,credit_card
+313,LA,90226.0,MORTGAGE,0.0,12.99,36.0,11200.0,Fully Paid,,710xx,Individual,Dec-2014,debt_consolidation
+314,MI,38550.0,OWN,0.0,15.59,60.0,12000.0,Charged Off,,481xx,Individual,Dec-2014,credit_card
+315,AL,48000.0,MORTGAGE,0.0,11.99,36.0,3500.0,Fully Paid,,361xx,Individual,Dec-2014,car
+316,WA,60000.0,MORTGAGE,0.0,11.44,36.0,22000.0,Fully Paid,,994xx,Individual,Dec-2014,credit_card
+317,WA,35000.0,RENT,0.0,13.66,36.0,12000.0,Fully Paid,,980xx,Individual,Dec-2014,credit_card
+318,GA,70000.0,RENT,0.0,12.99,60.0,15400.0,Fully Paid,,305xx,Individual,Dec-2014,credit_card
+319,IL,90000.0,RENT,0.0,11.99,36.0,13000.0,Current,Jan-2018,600xx,Individual,Dec-2014,debt_consolidation
+320,MN,30000.0,RENT,0.0,16.49,36.0,3000.0,Fully Paid,,560xx,Individual,Dec-2014,small_business
+321,FL,44000.0,RENT,0.0,14.31,36.0,6500.0,Fully Paid,,331xx,Individual,Dec-2014,debt_consolidation
+322,NC,19164.0,MORTGAGE,0.0,10.49,36.0,6725.0,Fully Paid,,281xx,Individual,Dec-2014,debt_consolidation
+323,CT,69500.0,MORTGAGE,0.0,13.66,36.0,6400.0,Fully Paid,,060xx,Individual,Dec-2014,debt_consolidation
+324,CA,84000.0,RENT,0.0,12.39,36.0,5000.0,Fully Paid,,925xx,Individual,Dec-2014,credit_card
+325,IL,36000.0,MORTGAGE,0.0,13.66,36.0,5000.0,Fully Paid,,601xx,Individual,Dec-2014,medical
+326,OH,85000.0,MORTGAGE,0.0,8.67,36.0,35000.0,Fully Paid,,442xx,Individual,Dec-2014,credit_card
+327,TX,75000.0,MORTGAGE,0.0,8.67,36.0,10000.0,Fully Paid,,778xx,Individual,Dec-2014,car
+328,NJ,63000.0,RENT,0.0,7.49,36.0,5700.0,Fully Paid,,070xx,Individual,Dec-2014,other
+329,VA,40000.0,RENT,0.0,9.49,36.0,10000.0,Fully Paid,,231xx,Individual,Dec-2014,other
+330,NV,80000.0,RENT,0.0,12.39,36.0,12000.0,Fully Paid,,895xx,Individual,Dec-2014,debt_consolidation
+331,WV,44000.0,OWN,1.0,17.86,60.0,10000.0,Fully Paid,,260xx,Individual,Dec-2014,credit_card
+332,IN,75000.0,OWN,0.0,8.67,36.0,2500.0,Fully Paid,,462xx,Individual,Dec-2014,other
+333,NM,32000.0,MORTGAGE,0.0,10.49,36.0,8000.0,Fully Paid,,871xx,Individual,Dec-2014,debt_consolidation
+334,MI,64000.0,MORTGAGE,0.0,8.67,36.0,12000.0,Fully Paid,,481xx,Individual,Dec-2014,home_improvement
+335,VA,95000.0,MORTGAGE,0.0,14.31,36.0,1000.0,Fully Paid,,221xx,Individual,Dec-2014,other
+336,MI,64000.0,MORTGAGE,0.0,17.14,60.0,16000.0,Current,Jan-2018,486xx,Individual,Dec-2014,debt_consolidation
+337,NC,32000.0,MORTGAGE,0.0,13.66,36.0,13400.0,Fully Paid,,275xx,Individual,Dec-2014,debt_consolidation
+338,WA,85000.0,MORTGAGE,0.0,18.54,60.0,24000.0,Charged Off,,983xx,Individual,Dec-2014,debt_consolidation
+339,NJ,220000.0,MORTGAGE,0.0,13.66,60.0,25000.0,Current,Jan-2018,080xx,Individual,Dec-2014,debt_consolidation
+340,IL,100000.0,RENT,0.0,11.99,36.0,7000.0,Fully Paid,,600xx,Individual,Dec-2014,debt_consolidation
+341,OR,95000.0,MORTGAGE,0.0,12.39,36.0,12000.0,Charged Off,,970xx,Individual,Dec-2014,debt_consolidation
+342,LA,115000.0,MORTGAGE,0.0,9.49,36.0,6000.0,Fully Paid,,705xx,Individual,Dec-2014,debt_consolidation
+343,WA,35000.0,MORTGAGE,0.0,8.19,36.0,7000.0,Fully Paid,,993xx,Individual,Dec-2014,debt_consolidation
+344,FL,46000.0,MORTGAGE,0.0,9.49,36.0,21000.0,Fully Paid,,323xx,Individual,Dec-2014,debt_consolidation
+345,CA,79500.0,RENT,0.0,22.99,60.0,35000.0,Current,Jan-2018,958xx,Individual,Dec-2014,debt_consolidation
+346,VA,102000.0,MORTGAGE,0.0,12.99,60.0,30000.0,Current,Jan-2018,201xx,Individual,Dec-2014,debt_consolidation
+347,UT,65000.0,OWN,0.0,6.99,36.0,1500.0,Fully Paid,,846xx,Individual,Dec-2014,car
+348,NJ,50478.0,MORTGAGE,0.0,12.39,60.0,14000.0,Current,Jan-2018,070xx,Individual,Dec-2014,home_improvement
+349,NJ,65000.0,RENT,0.0,6.49,36.0,6000.0,Fully Paid,,079xx,Individual,Dec-2014,medical
+350,AZ,100000.0,MORTGAGE,0.0,10.49,60.0,12000.0,Current,Jan-2018,853xx,Individual,Dec-2014,credit_card
+351,VA,66000.0,RENT,0.0,11.44,60.0,10000.0,Fully Paid,,220xx,Individual,Dec-2014,credit_card
+352,IN,54000.0,RENT,0.0,8.67,36.0,12000.0,Fully Paid,,460xx,Individual,Dec-2014,credit_card
+353,CA,150000.0,RENT,0.0,14.31,60.0,15000.0,Current,Jan-2018,900xx,Individual,Dec-2014,credit_card
+354,CA,48000.0,MORTGAGE,0.0,12.99,36.0,15000.0,Charged Off,,920xx,Individual,Dec-2014,other
+355,VA,42000.0,MORTGAGE,0.0,8.67,36.0,10500.0,Fully Paid,,240xx,Individual,Dec-2014,debt_consolidation
+356,FL,80000.0,RENT,0.0,8.67,36.0,13000.0,Fully Paid,,331xx,Individual,Dec-2014,debt_consolidation
+357,TN,50000.0,OWN,0.0,17.14,60.0,10000.0,Current,Jan-2018,377xx,Individual,Dec-2014,home_improvement
+358,LA,26880.0,RENT,0.0,12.99,36.0,5000.0,Charged Off,,700xx,Individual,Dec-2014,debt_consolidation
+359,IN,40221.0,RENT,0.0,9.49,36.0,12000.0,Fully Paid,,462xx,Individual,Dec-2014,credit_card
+360,FL,60590.0,MORTGAGE,0.0,15.59,60.0,10000.0,Current,Jan-2018,320xx,Individual,Dec-2014,debt_consolidation
+361,MI,72000.0,MORTGAGE,0.0,21.99,60.0,30000.0,Charged Off,,481xx,Individual,Dec-2014,debt_consolidation
+362,WI,105000.0,MORTGAGE,0.0,8.67,36.0,35000.0,Fully Paid,,549xx,Individual,Dec-2014,debt_consolidation
+363,CO,105000.0,MORTGAGE,0.0,11.44,60.0,16000.0,Current,Jan-2018,800xx,Individual,Dec-2014,debt_consolidation
+364,WI,70000.0,MORTGAGE,0.0,11.44,36.0,11000.0,Fully Paid,,532xx,Individual,Dec-2014,credit_card
+365,GA,45000.0,OWN,0.0,12.39,36.0,8000.0,Fully Paid,,301xx,Individual,Dec-2014,car
+366,NJ,88000.0,MORTGAGE,0.0,8.67,36.0,12000.0,Fully Paid,,080xx,Individual,Dec-2014,debt_consolidation
+367,VA,140000.0,RENT,0.0,14.31,36.0,35000.0,Fully Paid,,201xx,Individual,Dec-2014,debt_consolidation
+368,PA,90000.0,MORTGAGE,0.0,8.19,36.0,6000.0,Fully Paid,,158xx,Individual,Dec-2014,debt_consolidation
+369,CA,55000.0,OWN,0.0,14.31,36.0,11875.0,Fully Paid,,921xx,Individual,Dec-2014,credit_card
+370,VA,69000.0,MORTGAGE,0.0,8.67,60.0,13000.0,Current,Jan-2018,231xx,Individual,Dec-2014,credit_card
+371,AZ,37000.0,RENT,0.0,9.49,36.0,10000.0,Fully Paid,,852xx,Individual,Dec-2014,debt_consolidation
+372,MN,90000.0,MORTGAGE,0.0,8.67,60.0,25000.0,Current,Jan-2018,550xx,Individual,Dec-2014,credit_card
+373,IL,100000.0,RENT,0.0,11.99,36.0,15000.0,Fully Paid,,601xx,Individual,Dec-2014,debt_consolidation
+374,TX,110000.0,MORTGAGE,0.0,20.99,60.0,16000.0,Charged Off,,770xx,Individual,Dec-2014,debt_consolidation
+375,FL,148320.0,RENT,0.0,14.31,60.0,24500.0,Fully Paid,,334xx,Individual,Dec-2014,debt_consolidation
+376,CA,98500.0,RENT,0.0,12.39,36.0,25000.0,Fully Paid,,944xx,Individual,Dec-2014,major_purchase
+377,AR,55000.0,MORTGAGE,0.0,14.31,60.0,11200.0,Charged Off,,722xx,Individual,Dec-2014,debt_consolidation
+378,MD,112000.0,MORTGAGE,0.0,11.44,60.0,10000.0,Current,Jan-2018,206xx,Individual,Dec-2014,debt_consolidation
+379,TX,84000.0,MORTGAGE,0.0,17.14,60.0,30225.0,Charged Off,,750xx,Individual,Dec-2014,debt_consolidation
+380,TX,150000.0,MORTGAGE,0.0,14.31,60.0,27000.0,Current,Jan-2018,785xx,Individual,Dec-2014,debt_consolidation
+381,KY,275000.0,MORTGAGE,0.0,8.19,36.0,28000.0,Fully Paid,,402xx,Individual,Dec-2014,small_business
+382,NJ,93685.0,RENT,1.0,10.49,36.0,5000.0,Fully Paid,,071xx,Individual,Dec-2014,debt_consolidation
+383,CA,60000.0,OWN,0.0,20.99,60.0,16000.0,Fully Paid,,913xx,Individual,Dec-2014,debt_consolidation
+384,NJ,60000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,070xx,Individual,Dec-2014,debt_consolidation
+385,NY,62000.0,OWN,0.0,12.39,60.0,20400.0,Current,Jan-2018,104xx,Individual,Dec-2014,debt_consolidation
+386,NJ,235000.0,RENT,0.0,17.14,60.0,20000.0,Fully Paid,,073xx,Individual,Dec-2014,debt_consolidation
+387,TN,47380.0,RENT,0.0,14.99,36.0,20725.0,Fully Paid,,370xx,Individual,Dec-2014,debt_consolidation
+388,NY,80000.0,MORTGAGE,0.0,14.99,36.0,15000.0,Fully Paid,,104xx,Individual,Dec-2014,home_improvement
+389,AZ,52000.0,MORTGAGE,0.0,8.67,36.0,4500.0,Charged Off,,853xx,Individual,Dec-2014,debt_consolidation
+390,CA,79000.0,MORTGAGE,0.0,6.03,36.0,5000.0,Fully Paid,,910xx,Individual,Dec-2014,debt_consolidation
+391,NV,45000.0,RENT,0.0,8.19,36.0,4000.0,Fully Paid,,890xx,Individual,Dec-2014,debt_consolidation
+392,FL,56000.0,RENT,0.0,12.39,36.0,15000.0,Fully Paid,,339xx,Individual,Dec-2014,debt_consolidation
+393,TX,34000.0,RENT,0.0,11.99,36.0,10400.0,Fully Paid,,790xx,Individual,Dec-2014,debt_consolidation
+394,NJ,50000.0,RENT,0.0,8.67,36.0,6600.0,Fully Paid,,082xx,Individual,Dec-2014,credit_card
+395,NC,30000.0,RENT,0.0,17.14,36.0,7150.0,Fully Paid,,284xx,Individual,Dec-2014,debt_consolidation
+396,MI,18000.0,MORTGAGE,0.0,17.86,36.0,1375.0,Fully Paid,,488xx,Individual,Dec-2014,debt_consolidation
+397,MI,40000.0,MORTGAGE,0.0,17.14,36.0,9650.0,Fully Paid,,495xx,Individual,Dec-2014,debt_consolidation
+398,CA,45000.0,MORTGAGE,0.0,7.49,36.0,16000.0,Fully Paid,,959xx,Individual,Dec-2014,debt_consolidation
+399,OH,38000.0,RENT,0.0,15.59,36.0,10300.0,Current,Jan-2018,432xx,Individual,Dec-2014,other
+400,OR,65000.0,RENT,0.0,15.99,36.0,4000.0,Current,Jan-2018,972xx,Individual,Dec-2014,moving
+401,MI,41500.0,MORTGAGE,0.0,19.24,60.0,11000.0,Current,Jan-2018,480xx,Individual,Dec-2014,debt_consolidation
+402,NY,95000.0,OWN,0.0,13.66,36.0,5000.0,Current,Jan-2018,114xx,Individual,Dec-2014,other
+403,MN,85000.0,MORTGAGE,0.0,10.49,36.0,20000.0,Fully Paid,,563xx,Individual,Dec-2014,debt_consolidation
+404,NV,95000.0,MORTGAGE,0.0,11.44,36.0,4000.0,Fully Paid,,891xx,Individual,Dec-2014,home_improvement
+405,TX,108600.0,MORTGAGE,0.0,8.67,36.0,21000.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+406,MA,137240.0,RENT,0.0,15.59,36.0,9725.0,Fully Paid,,024xx,Individual,Dec-2014,house
+407,NY,23000.0,RENT,0.0,15.59,36.0,4800.0,Charged Off,,132xx,Individual,Dec-2014,moving
+408,FL,120000.0,MORTGAGE,0.0,12.99,36.0,24000.0,Fully Paid,,337xx,Individual,Dec-2014,credit_card
+409,KS,60000.0,RENT,0.0,6.03,36.0,8000.0,Fully Paid,,662xx,Individual,Dec-2014,credit_card
+410,IL,70000.0,RENT,0.0,7.49,36.0,10200.0,Current,Jan-2018,605xx,Individual,Dec-2014,debt_consolidation
+411,NJ,40000.0,OWN,0.0,6.49,36.0,7500.0,Fully Paid,,087xx,Individual,Dec-2014,credit_card
+412,IN,70000.0,MORTGAGE,0.0,14.31,36.0,16000.0,Current,Jan-2018,468xx,Individual,Dec-2014,debt_consolidation
+413,VA,30000.0,RENT,0.0,12.39,36.0,8500.0,Fully Paid,,240xx,Individual,Dec-2014,debt_consolidation
+414,CA,35300.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,945xx,Individual,Dec-2014,debt_consolidation
+415,IL,69000.0,RENT,0.0,8.19,60.0,16000.0,Current,Jan-2018,600xx,Individual,Dec-2014,other
+416,AZ,216000.0,MORTGAGE,0.0,8.67,36.0,35000.0,Fully Paid,,852xx,Individual,Dec-2014,credit_card
+417,CA,105000.0,RENT,0.0,16.49,60.0,20000.0,Current,Jan-2018,927xx,Individual,Dec-2014,debt_consolidation
+418,NJ,125000.0,RENT,0.0,15.99,36.0,6075.0,Fully Paid,,070xx,Individual,Dec-2014,debt_consolidation
+419,MD,67000.0,MORTGAGE,0.0,19.99,36.0,4800.0,Current,Jan-2018,211xx,Individual,Dec-2014,credit_card
+420,TN,99000.0,MORTGAGE,0.0,11.44,36.0,15000.0,Fully Paid,,378xx,Individual,Dec-2014,debt_consolidation
+421,WI,40000.0,MORTGAGE,0.0,14.31,60.0,12000.0,Current,Jan-2018,530xx,Individual,Dec-2014,debt_consolidation
+422,CA,50000.0,RENT,0.0,10.49,36.0,8700.0,Fully Paid,,958xx,Individual,Dec-2014,credit_card
+423,KS,150000.0,MORTGAGE,0.0,17.14,60.0,35000.0,Fully Paid,,660xx,Individual,Dec-2014,debt_consolidation
+424,PA,115000.0,MORTGAGE,0.0,6.49,36.0,15000.0,Fully Paid,,190xx,Individual,Dec-2014,debt_consolidation
+425,MN,34000.0,RENT,0.0,12.39,60.0,15525.0,Current,Jan-2018,559xx,Individual,Dec-2014,credit_card
+426,MA,25000.0,OWN,0.0,6.49,36.0,5000.0,Fully Paid,,016xx,Individual,Dec-2014,debt_consolidation
+427,NY,37024.0,OWN,0.0,20.99,60.0,11075.0,Fully Paid,,120xx,Individual,Dec-2014,debt_consolidation
+428,MT,85000.0,MORTGAGE,0.0,11.99,36.0,20000.0,Fully Paid,,597xx,Individual,Dec-2014,credit_card
+429,WI,450000.0,MORTGAGE,0.0,18.54,60.0,35000.0,Fully Paid,,549xx,Individual,Dec-2014,debt_consolidation
+430,FL,80000.0,MORTGAGE,0.0,7.49,36.0,12000.0,Fully Paid,,329xx,Individual,Dec-2014,debt_consolidation
+431,NY,85000.0,RENT,1.0,21.99,60.0,24000.0,Charged Off,,114xx,Individual,Dec-2014,debt_consolidation
+432,SC,110000.0,MORTGAGE,0.0,14.31,60.0,20000.0,Current,Jan-2018,294xx,Individual,Dec-2014,debt_consolidation
+433,NV,55000.0,RENT,0.0,12.99,60.0,15000.0,Fully Paid,,891xx,Individual,Dec-2014,debt_consolidation
+434,TX,73000.0,MORTGAGE,0.0,8.67,36.0,5000.0,Fully Paid,,751xx,Individual,Dec-2014,vacation
+435,FL,55000.0,OWN,0.0,10.49,36.0,3075.0,Fully Paid,,331xx,Individual,Dec-2014,debt_consolidation
+436,NC,90000.0,MORTGAGE,0.0,12.99,36.0,4800.0,Current,Jan-2018,272xx,Individual,Dec-2014,debt_consolidation
+437,WV,107500.0,MORTGAGE,0.0,12.39,36.0,5000.0,Fully Paid,,261xx,Individual,Dec-2014,debt_consolidation
+438,CO,60000.0,RENT,0.0,21.99,60.0,22800.0,Late (31-120 days),Jan-2018,800xx,Individual,Dec-2014,debt_consolidation
+439,MT,25000.0,RENT,0.0,24.99,36.0,7475.0,Fully Paid,,597xx,Individual,Dec-2014,debt_consolidation
+440,NJ,137000.0,MORTGAGE,0.0,7.49,36.0,28000.0,Fully Paid,,070xx,Individual,Dec-2014,debt_consolidation
+441,CT,160000.0,MORTGAGE,0.0,9.49,36.0,18000.0,Fully Paid,,067xx,Individual,Dec-2014,debt_consolidation
+442,FL,51000.0,RENT,0.0,8.67,36.0,18000.0,Fully Paid,,333xx,Individual,Dec-2014,debt_consolidation
+443,MA,140000.0,MORTGAGE,0.0,19.99,60.0,28000.0,Fully Paid,,023xx,Individual,Dec-2014,debt_consolidation
+444,NY,185000.0,MORTGAGE,0.0,8.67,60.0,25000.0,Current,Jan-2018,105xx,Individual,Dec-2014,credit_card
+445,NY,36180.0,RENT,0.0,15.59,36.0,15900.0,Fully Paid,,104xx,Individual,Dec-2014,debt_consolidation
+446,TX,87475.0,MORTGAGE,0.0,12.39,36.0,17000.0,Current,Jan-2018,750xx,Individual,Dec-2014,debt_consolidation
+447,PA,21000.0,RENT,0.0,15.99,36.0,1000.0,Fully Paid,,172xx,Individual,Dec-2014,medical
+448,NC,85814.0,RENT,0.0,11.99,36.0,21000.0,Fully Paid,,283xx,Individual,Dec-2014,debt_consolidation
+449,TX,57600.0,MORTGAGE,0.0,10.49,36.0,10000.0,Fully Paid,,750xx,Individual,Dec-2014,debt_consolidation
+450,NV,39465.0,OWN,0.0,17.86,36.0,13225.0,Fully Paid,,891xx,Individual,Dec-2014,credit_card
+451,IL,100000.0,MORTGAGE,0.0,12.39,36.0,33000.0,Fully Paid,,600xx,Individual,Dec-2014,credit_card
+452,MO,83000.0,MORTGAGE,0.0,6.99,36.0,12000.0,Fully Paid,,640xx,Individual,Dec-2014,credit_card
+453,TX,69000.0,RENT,0.0,13.66,36.0,12000.0,Fully Paid,,774xx,Individual,Dec-2014,debt_consolidation
+454,NY,42000.0,RENT,0.0,6.99,36.0,8000.0,Charged Off,,144xx,Individual,Dec-2014,debt_consolidation
+455,NY,27300.0,RENT,0.0,15.59,36.0,9225.0,Fully Paid,,112xx,Individual,Dec-2014,debt_consolidation
+456,CA,82500.0,RENT,0.0,15.59,36.0,25000.0,Fully Paid,,925xx,Individual,Dec-2014,small_business
+457,CT,35000.0,RENT,0.0,8.19,36.0,5000.0,Fully Paid,,062xx,Individual,Dec-2014,debt_consolidation
+458,TX,89000.0,MORTGAGE,0.0,11.44,60.0,13000.0,Fully Paid,,782xx,Individual,Dec-2014,major_purchase
+459,CA,50000.0,OWN,0.0,8.67,36.0,10000.0,Fully Paid,,927xx,Individual,Dec-2014,major_purchase
+460,MI,42000.0,MORTGAGE,0.0,12.99,60.0,15000.0,Charged Off,,495xx,Individual,Dec-2014,debt_consolidation
+461,MN,55000.0,RENT,0.0,7.49,36.0,8500.0,Fully Paid,,554xx,Individual,Dec-2014,debt_consolidation
+462,NY,95480.0,RENT,0.0,7.49,36.0,18000.0,Fully Paid,,100xx,Individual,Dec-2014,debt_consolidation
+463,IN,40000.0,MORTGAGE,0.0,12.39,60.0,20000.0,Current,Jan-2018,462xx,Individual,Dec-2014,debt_consolidation
+464,VA,55200.0,OWN,0.0,8.67,36.0,20000.0,Fully Paid,,230xx,Individual,Dec-2014,debt_consolidation
+465,GA,50000.0,MORTGAGE,0.0,7.49,36.0,10300.0,Fully Paid,,301xx,Individual,Dec-2014,debt_consolidation
+466,SC,40000.0,MORTGAGE,0.0,6.03,36.0,10000.0,Fully Paid,,296xx,Individual,Dec-2014,credit_card
+467,CT,68000.0,MORTGAGE,0.0,15.59,36.0,11750.0,Fully Paid,,068xx,Individual,Dec-2014,debt_consolidation
+468,FL,59000.0,MORTGAGE,0.0,17.14,60.0,11000.0,Fully Paid,,329xx,Individual,Dec-2014,debt_consolidation
+469,CA,22000.0,RENT,0.0,11.44,36.0,4200.0,Fully Paid,,953xx,Individual,Dec-2014,other
+470,NC,70000.0,MORTGAGE,0.0,13.66,36.0,8000.0,Fully Paid,,281xx,Individual,Dec-2014,other
+471,CA,93808.0,RENT,0.0,7.49,36.0,8000.0,Fully Paid,,960xx,Individual,Dec-2014,debt_consolidation
+472,AZ,61000.0,RENT,0.0,8.19,36.0,6000.0,Fully Paid,,857xx,Individual,Dec-2014,other
+473,TX,47000.0,RENT,0.0,12.99,36.0,11200.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+474,TX,50000.0,RENT,0.0,11.44,36.0,11200.0,Fully Paid,,751xx,Individual,Dec-2014,medical
+475,OH,55000.0,OWN,0.0,13.66,60.0,10000.0,Charged Off,,430xx,Individual,Dec-2014,credit_card
+476,NJ,117000.0,MORTGAGE,0.0,12.39,60.0,21000.0,Current,Jan-2018,078xx,Individual,Dec-2014,debt_consolidation
+477,MO,35000.0,OWN,0.0,6.03,36.0,7000.0,Fully Paid,,630xx,Individual,Dec-2014,debt_consolidation
+478,FL,52000.0,MORTGAGE,0.0,11.44,36.0,9800.0,Fully Paid,,328xx,Individual,Dec-2014,debt_consolidation
+479,CA,61409.0,MORTGAGE,0.0,15.59,60.0,13550.0,Fully Paid,,957xx,Individual,Dec-2014,debt_consolidation
+480,AZ,77000.0,RENT,0.0,13.66,60.0,16000.0,Charged Off,,853xx,Individual,Dec-2014,home_improvement
+481,NY,35000.0,RENT,0.0,12.39,36.0,6000.0,Fully Paid,,104xx,Individual,Dec-2014,debt_consolidation
+482,NC,48000.0,MORTGAGE,0.0,10.49,60.0,20000.0,Current,Jan-2018,274xx,Individual,Dec-2014,debt_consolidation
+483,AZ,59000.0,MORTGAGE,0.0,8.67,36.0,7000.0,Fully Paid,,853xx,Individual,Dec-2014,debt_consolidation
+484,GA,145000.0,MORTGAGE,0.0,7.49,36.0,28000.0,Fully Paid,,303xx,Individual,Dec-2014,credit_card
+485,NV,100000.0,MORTGAGE,0.0,22.99,60.0,25000.0,Current,Jan-2018,891xx,Individual,Dec-2014,credit_card
+486,IN,60000.0,MORTGAGE,0.0,8.19,36.0,24000.0,Fully Paid,,468xx,Individual,Dec-2014,debt_consolidation
+487,GA,110000.0,MORTGAGE,0.0,6.99,36.0,12000.0,Fully Paid,,300xx,Individual,Dec-2014,home_improvement
+488,WI,31000.0,RENT,0.0,13.66,36.0,7400.0,Fully Paid,,534xx,Individual,Dec-2014,major_purchase
+489,NY,110000.0,OWN,0.0,11.99,60.0,20000.0,Charged Off,,109xx,Individual,Dec-2014,credit_card
+490,TX,90000.0,MORTGAGE,0.0,8.19,36.0,8000.0,Fully Paid,,762xx,Individual,Dec-2014,credit_card
+491,TX,78000.0,RENT,0.0,15.59,60.0,24000.0,Current,Jan-2018,775xx,Individual,Dec-2014,debt_consolidation
+492,NY,90000.0,RENT,0.0,12.99,60.0,22000.0,Fully Paid,,119xx,Individual,Dec-2014,debt_consolidation
+493,CA,72000.0,RENT,0.0,14.99,60.0,20000.0,Charged Off,,928xx,Individual,Dec-2014,credit_card
+494,PA,90000.0,MORTGAGE,0.0,15.59,60.0,30000.0,Current,Jan-2018,156xx,Individual,Dec-2014,credit_card
+495,MI,59055.0,MORTGAGE,0.0,11.44,36.0,16000.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+496,GA,73000.0,OWN,0.0,8.67,36.0,3000.0,Fully Paid,,301xx,Individual,Dec-2014,other
+497,WI,40000.0,MORTGAGE,0.0,6.49,36.0,12000.0,Fully Paid,,530xx,Individual,Dec-2014,debt_consolidation
+498,IL,95000.0,MORTGAGE,0.0,6.03,36.0,24100.0,Current,Jan-2018,606xx,Individual,Dec-2014,credit_card
+499,OR,53000.0,MORTGAGE,0.0,18.54,36.0,5375.0,Fully Paid,,972xx,Individual,Dec-2014,debt_consolidation
+500,VA,42000.0,OWN,0.0,6.99,36.0,10000.0,Fully Paid,,235xx,Individual,Dec-2014,credit_card
+501,WA,83000.0,MORTGAGE,0.0,9.49,36.0,16800.0,Fully Paid,,980xx,Individual,Dec-2014,credit_card
+502,IL,45000.0,OWN,0.0,14.31,60.0,19800.0,Current,Jan-2018,605xx,Individual,Dec-2014,debt_consolidation
+503,TN,55000.0,OWN,0.0,14.99,36.0,23800.0,Fully Paid,,378xx,Individual,Dec-2014,debt_consolidation
+504,CA,124000.0,RENT,0.0,12.99,60.0,21600.0,Fully Paid,,902xx,Individual,Dec-2014,debt_consolidation
+505,WA,115000.0,MORTGAGE,0.0,11.99,36.0,24000.0,Fully Paid,,982xx,Individual,Dec-2014,debt_consolidation
+506,KY,90000.0,MORTGAGE,0.0,17.14,60.0,18000.0,Fully Paid,,403xx,Individual,Dec-2014,debt_consolidation
+507,NY,80000.0,RENT,0.0,12.99,36.0,24000.0,Current,Jan-2018,113xx,Individual,Dec-2014,credit_card
+508,CA,58000.0,MORTGAGE,0.0,8.19,36.0,16000.0,Fully Paid,,958xx,Individual,Dec-2014,credit_card
+509,IL,76000.0,OWN,0.0,15.99,36.0,10225.0,Fully Paid,,601xx,Individual,Dec-2014,debt_consolidation
+510,OH,55000.0,MORTGAGE,0.0,17.86,60.0,15000.0,Current,Jan-2018,449xx,Individual,Dec-2014,debt_consolidation
+511,CA,52000.0,OWN,0.0,11.99,36.0,15000.0,Fully Paid,,900xx,Individual,Dec-2014,debt_consolidation
+512,WA,225000.0,RENT,0.0,6.03,36.0,24000.0,Fully Paid,,980xx,Individual,Dec-2014,credit_card
+513,WA,70000.0,RENT,0.0,9.49,36.0,4000.0,Fully Paid,,980xx,Individual,Dec-2014,debt_consolidation
+514,TX,65000.0,RENT,0.0,11.44,36.0,9600.0,Fully Paid,,763xx,Individual,Dec-2014,debt_consolidation
+515,TX,65000.0,OWN,0.0,15.59,60.0,23000.0,Charged Off,,751xx,Individual,Dec-2014,debt_consolidation
+516,MD,65000.0,MORTGAGE,0.0,6.03,36.0,10000.0,Fully Paid,,217xx,Individual,Dec-2014,credit_card
+517,AZ,28000.0,MORTGAGE,0.0,16.49,36.0,5000.0,Fully Paid,,852xx,Individual,Dec-2014,debt_consolidation
+518,NY,43000.0,RENT,0.0,12.39,36.0,6500.0,Fully Paid,,139xx,Individual,Dec-2014,other
+519,PA,125000.0,MORTGAGE,0.0,6.49,36.0,28000.0,Current,Jan-2018,189xx,Individual,Dec-2014,credit_card
+520,IL,80000.0,MORTGAGE,0.0,8.19,36.0,9600.0,Fully Paid,,606xx,Individual,Dec-2014,credit_card
+521,NC,100000.0,MORTGAGE,0.0,6.49,36.0,12000.0,Fully Paid,,276xx,Individual,Dec-2014,debt_consolidation
+522,MI,92000.0,MORTGAGE,0.0,13.66,36.0,20000.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+523,CA,120000.0,RENT,0.0,15.99,60.0,25000.0,Charged Off,,921xx,Individual,Dec-2014,credit_card
+524,OH,46000.0,MORTGAGE,0.0,15.99,60.0,15000.0,Fully Paid,,450xx,Individual,Dec-2014,debt_consolidation
+525,NC,60000.0,MORTGAGE,0.0,6.03,36.0,12000.0,Fully Paid,,275xx,Individual,Dec-2014,debt_consolidation
+526,CT,66099.0,RENT,0.0,8.19,36.0,17000.0,Fully Paid,,065xx,Individual,Dec-2014,credit_card
+527,WA,70000.0,MORTGAGE,0.0,22.99,60.0,27650.0,Current,Jan-2018,980xx,Individual,Dec-2014,debt_consolidation
+528,MO,90000.0,MORTGAGE,0.0,17.14,60.0,14000.0,Charged Off,,630xx,Individual,Dec-2014,debt_consolidation
+529,NM,50000.0,RENT,0.0,17.14,60.0,12000.0,Current,Jan-2018,871xx,Individual,Dec-2014,home_improvement
+530,FL,72000.0,MORTGAGE,0.0,15.59,36.0,12000.0,Fully Paid,,334xx,Individual,Dec-2014,debt_consolidation
+531,NY,190000.0,OWN,0.0,6.03,36.0,25000.0,Fully Paid,,109xx,Individual,Dec-2014,credit_card
+532,MO,32000.0,MORTGAGE,0.0,7.49,36.0,2500.0,Fully Paid,,630xx,Individual,Dec-2014,car
+533,PA,42000.0,MORTGAGE,0.0,17.14,60.0,15000.0,Charged Off,,190xx,Individual,Dec-2014,home_improvement
+534,PA,60000.0,OWN,0.0,9.49,36.0,15000.0,Fully Paid,,191xx,Individual,Dec-2014,debt_consolidation
+535,NY,85000.0,RENT,0.0,6.03,36.0,10000.0,Fully Paid,,112xx,Individual,Dec-2014,credit_card
+536,FL,43000.0,RENT,0.0,14.31,36.0,12000.0,Charged Off,,339xx,Individual,Dec-2014,credit_card
+537,NJ,105000.0,MORTGAGE,0.0,6.99,36.0,2500.0,Fully Paid,,081xx,Individual,Dec-2014,car
+538,VA,64000.0,MORTGAGE,0.0,14.99,36.0,14400.0,Fully Paid,,232xx,Individual,Dec-2014,debt_consolidation
+539,CT,45000.0,MORTGAGE,0.0,8.67,36.0,10000.0,Fully Paid,,060xx,Individual,Dec-2014,debt_consolidation
+540,VA,69000.0,MORTGAGE,0.0,12.99,36.0,15000.0,Fully Paid,,224xx,Individual,Dec-2014,car
+541,WV,43000.0,MORTGAGE,1.0,15.59,60.0,18000.0,Fully Paid,,260xx,Individual,Dec-2014,debt_consolidation
+542,CA,100000.0,RENT,0.0,10.49,36.0,6000.0,Fully Paid,,917xx,Individual,Dec-2014,debt_consolidation
+543,TX,88100.0,MORTGAGE,0.0,11.99,36.0,14400.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+544,MD,34000.0,RENT,0.0,13.66,36.0,2000.0,Fully Paid,,218xx,Individual,Dec-2014,debt_consolidation
+545,NV,88000.0,RENT,0.0,9.49,36.0,3600.0,Fully Paid,,891xx,Individual,Dec-2014,major_purchase
+546,FL,22500.0,RENT,0.0,6.03,36.0,8000.0,Fully Paid,,331xx,Individual,Dec-2014,credit_card
+547,AZ,60000.0,RENT,0.0,15.99,36.0,2800.0,Fully Paid,,852xx,Individual,Dec-2014,debt_consolidation
+548,AZ,81900.0,MORTGAGE,0.0,11.99,36.0,15000.0,Fully Paid,,852xx,Individual,Dec-2014,debt_consolidation
+549,IL,46291.0,MORTGAGE,0.0,8.67,36.0,9600.0,Fully Paid,,600xx,Individual,Dec-2014,credit_card
+550,IL,55000.0,MORTGAGE,0.0,6.49,36.0,10000.0,Fully Paid,,606xx,Individual,Dec-2014,credit_card
+551,TN,225000.0,MORTGAGE,0.0,7.49,36.0,10000.0,Fully Paid,,370xx,Individual,Dec-2014,home_improvement
+552,GA,78000.0,OWN,0.0,10.49,36.0,1500.0,Fully Paid,,301xx,Individual,Dec-2014,other
+553,NY,60000.0,MORTGAGE,0.0,12.39,60.0,12000.0,Current,Jan-2018,120xx,Individual,Dec-2014,debt_consolidation
+554,MA,80000.0,MORTGAGE,0.0,23.99,60.0,20000.0,Charged Off,,021xx,Individual,Dec-2014,debt_consolidation
+555,MI,52000.0,RENT,0.0,19.99,36.0,7050.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+556,RI,130000.0,MORTGAGE,0.0,6.49,36.0,6000.0,Fully Paid,,028xx,Individual,Dec-2014,credit_card
+557,CA,97000.0,MORTGAGE,0.0,24.99,60.0,30000.0,Charged Off,,908xx,Individual,Dec-2014,other
+558,CA,63000.0,RENT,0.0,22.99,60.0,14700.0,Fully Paid,,919xx,Individual,Dec-2014,debt_consolidation
+559,AR,58000.0,MORTGAGE,0.0,13.66,36.0,18000.0,Current,Jan-2018,726xx,Individual,Dec-2014,debt_consolidation
+560,IL,310000.0,MORTGAGE,0.0,10.49,36.0,20000.0,Fully Paid,,605xx,Individual,Dec-2014,debt_consolidation
+561,NY,60000.0,MORTGAGE,0.0,11.99,60.0,29975.0,Fully Paid,,103xx,Individual,Dec-2014,debt_consolidation
+562,VA,50000.0,RENT,0.0,12.99,36.0,3000.0,Fully Paid,,235xx,Individual,Dec-2014,other
+563,MS,75000.0,MORTGAGE,0.0,16.49,36.0,5875.0,Charged Off,,395xx,Individual,Dec-2014,debt_consolidation
+564,TX,70000.0,OWN,0.0,12.39,36.0,32000.0,Fully Paid,,769xx,Individual,Dec-2014,debt_consolidation
+565,TX,65000.0,MORTGAGE,0.0,8.19,36.0,6600.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+566,OH,25000.0,RENT,0.0,15.99,36.0,8475.0,Fully Paid,,441xx,Individual,Dec-2014,debt_consolidation
+567,WI,83000.0,MORTGAGE,0.0,9.49,60.0,31200.0,Fully Paid,,535xx,Individual,Dec-2014,credit_card
+568,OK,58000.0,MORTGAGE,0.0,6.49,36.0,15000.0,Charged Off,,740xx,Individual,Dec-2014,debt_consolidation
+569,CA,150000.0,MORTGAGE,0.0,15.59,60.0,35000.0,Fully Paid,,927xx,Individual,Dec-2014,home_improvement
+570,CA,280000.0,MORTGAGE,0.0,11.44,36.0,8000.0,Fully Paid,,951xx,Individual,Dec-2014,credit_card
+571,MN,40000.0,MORTGAGE,0.0,15.99,60.0,11075.0,Fully Paid,,563xx,Individual,Dec-2014,debt_consolidation
+572,CA,86000.0,RENT,0.0,14.31,36.0,35000.0,Fully Paid,,900xx,Individual,Dec-2014,debt_consolidation
+573,LA,43000.0,MORTGAGE,0.0,7.49,36.0,7000.0,Current,Jan-2018,701xx,Individual,Dec-2014,debt_consolidation
+574,CA,60000.0,MORTGAGE,0.0,13.66,36.0,7000.0,Fully Paid,,928xx,Individual,Dec-2014,other
+575,NY,34000.0,RENT,0.0,11.99,36.0,12000.0,Fully Paid,,104xx,Individual,Dec-2014,debt_consolidation
+576,AZ,77000.0,RENT,0.0,17.86,36.0,29000.0,Charged Off,,850xx,Individual,Dec-2014,debt_consolidation
+577,NY,185000.0,RENT,0.0,11.99,36.0,5000.0,Fully Paid,,110xx,Individual,Dec-2014,debt_consolidation
+578,NM,110000.0,MORTGAGE,0.0,8.19,60.0,28000.0,Current,Jan-2018,870xx,Individual,Dec-2014,credit_card
+579,MT,56000.0,RENT,0.0,8.67,36.0,15000.0,Fully Paid,,595xx,Individual,Dec-2014,debt_consolidation
+580,MD,122500.0,MORTGAGE,0.0,8.67,36.0,30000.0,Fully Paid,,208xx,Individual,Dec-2014,debt_consolidation
+581,WI,62000.0,MORTGAGE,0.0,19.24,60.0,20000.0,Fully Paid,,548xx,Individual,Dec-2014,credit_card
+582,IL,115000.0,MORTGAGE,0.0,13.66,36.0,12000.0,Charged Off,,606xx,Individual,Dec-2014,debt_consolidation
+583,CA,112000.0,RENT,0.0,9.49,36.0,3600.0,Fully Paid,,937xx,Individual,Dec-2014,debt_consolidation
+584,WV,82000.0,MORTGAGE,0.0,6.99,36.0,18000.0,Fully Paid,,253xx,Individual,Dec-2014,credit_card
+585,CA,72000.0,RENT,0.0,11.44,60.0,15000.0,Fully Paid,,913xx,Individual,Dec-2014,debt_consolidation
+586,SC,82000.0,MORTGAGE,0.0,6.99,36.0,24000.0,Fully Paid,,296xx,Individual,Dec-2014,credit_card
+587,IL,90000.0,MORTGAGE,0.0,23.99,60.0,35000.0,Fully Paid,,611xx,Individual,Dec-2014,debt_consolidation
+588,RI,64000.0,RENT,0.0,11.99,36.0,5000.0,Fully Paid,,029xx,Individual,Dec-2014,credit_card
+589,CO,62952.0,MORTGAGE,0.0,12.99,60.0,18000.0,Fully Paid,,808xx,Individual,Dec-2014,debt_consolidation
+590,GA,84000.0,MORTGAGE,0.0,6.03,36.0,24000.0,Fully Paid,,302xx,Individual,Dec-2014,credit_card
+591,CA,23760.0,MORTGAGE,0.0,8.67,36.0,2000.0,Fully Paid,,957xx,Individual,Dec-2014,home_improvement
+592,NY,80000.0,MORTGAGE,0.0,10.49,36.0,35000.0,Fully Paid,,112xx,Individual,Dec-2014,credit_card
+593,IL,100500.0,MORTGAGE,0.0,9.49,36.0,26000.0,Charged Off,,604xx,Individual,Dec-2014,home_improvement
+594,SC,60000.0,RENT,0.0,11.44,36.0,14000.0,Fully Paid,,294xx,Individual,Dec-2014,debt_consolidation
+595,NV,60000.0,MORTGAGE,0.0,9.49,36.0,12000.0,Fully Paid,,891xx,Individual,Dec-2014,debt_consolidation
+596,OH,110244.0,OWN,0.0,11.99,36.0,25000.0,Fully Paid,,440xx,Individual,Dec-2014,credit_card
+597,TX,80000.0,RENT,0.0,15.59,36.0,4800.0,Fully Paid,,785xx,Individual,Dec-2014,debt_consolidation
+598,NC,90000.0,RENT,0.0,6.03,36.0,6000.0,Fully Paid,,282xx,Individual,Dec-2014,debt_consolidation
+599,VA,116887.0,MORTGAGE,0.0,8.67,36.0,7000.0,Fully Paid,,201xx,Individual,Dec-2014,debt_consolidation
+600,CO,60000.0,MORTGAGE,0.0,11.99,36.0,10000.0,Fully Paid,,802xx,Individual,Dec-2014,debt_consolidation
+601,NY,32760.0,RENT,0.0,11.44,36.0,11075.0,Fully Paid,,140xx,Individual,Dec-2014,debt_consolidation
+602,OH,45000.0,MORTGAGE,0.0,11.99,36.0,15000.0,Fully Paid,,453xx,Individual,Dec-2014,debt_consolidation
+603,MN,96000.0,RENT,0.0,9.49,36.0,8000.0,Fully Paid,,554xx,Individual,Dec-2014,debt_consolidation
+604,CA,50000.0,RENT,0.0,15.59,60.0,20000.0,Charged Off,,940xx,Individual,Dec-2014,credit_card
+605,PA,48000.0,OWN,0.0,13.66,36.0,6000.0,Fully Paid,,151xx,Individual,Dec-2014,other
+606,CA,120000.0,MORTGAGE,0.0,10.49,36.0,3500.0,Charged Off,,940xx,Individual,Dec-2014,credit_card
+607,NJ,38784.0,RENT,0.0,13.66,36.0,7000.0,Fully Paid,,080xx,Individual,Dec-2014,debt_consolidation
+608,CA,150000.0,RENT,0.0,12.99,36.0,3600.0,Fully Paid,,951xx,Individual,Dec-2014,home_improvement
+609,NY,60000.0,MORTGAGE,0.0,8.19,36.0,25000.0,Fully Paid,,121xx,Individual,Dec-2014,credit_card
+610,CO,50000.0,MORTGAGE,0.0,12.39,36.0,4000.0,Fully Paid,,800xx,Individual,Dec-2014,other
+611,CA,70611.0,RENT,0.0,19.24,36.0,25325.0,Charged Off,,920xx,Individual,Dec-2014,debt_consolidation
+612,TX,65000.0,RENT,0.0,14.99,36.0,7200.0,Fully Paid,,786xx,Individual,Dec-2014,debt_consolidation
+613,NY,50820.0,OWN,0.0,12.99,60.0,15000.0,Fully Paid,,112xx,Individual,Dec-2014,debt_consolidation
+614,PA,22000.0,MORTGAGE,0.0,8.67,36.0,3000.0,Fully Paid,,184xx,Individual,Dec-2014,credit_card
+615,VA,62000.0,MORTGAGE,0.0,12.99,36.0,18000.0,Fully Paid,,234xx,Individual,Dec-2014,debt_consolidation
+616,OH,56037.12,MORTGAGE,0.0,13.66,60.0,21000.0,Current,Jan-2018,430xx,Individual,Dec-2014,major_purchase
+617,CA,200000.0,MORTGAGE,0.0,6.03,36.0,25000.0,Fully Paid,,922xx,Individual,Dec-2014,credit_card
+618,NH,20000.0,RENT,0.0,17.86,36.0,9975.0,Current,Jan-2018,030xx,Individual,Dec-2014,debt_consolidation
+619,WA,99000.0,RENT,0.0,7.49,36.0,18000.0,Charged Off,,981xx,Individual,Dec-2014,debt_consolidation
+620,MN,263500.0,MORTGAGE,0.0,8.67,36.0,14000.0,Fully Paid,,559xx,Individual,Dec-2014,debt_consolidation
+621,WA,87877.0,MORTGAGE,0.0,11.44,60.0,24000.0,Current,Jan-2018,983xx,Individual,Dec-2014,debt_consolidation
+622,UT,33000.0,MORTGAGE,0.0,11.99,36.0,6500.0,Charged Off,,840xx,Individual,Dec-2014,debt_consolidation
+623,IL,34990.0,RENT,0.0,11.44,36.0,6500.0,Charged Off,,606xx,Individual,Dec-2014,debt_consolidation
+624,VA,45900.0,OWN,0.0,14.99,60.0,10800.0,Late (31-120 days),Jan-2018,201xx,Individual,Dec-2014,debt_consolidation
+625,SD,82500.0,MORTGAGE,0.0,8.19,36.0,18300.0,Fully Paid,,571xx,Individual,Dec-2014,debt_consolidation
+626,CA,65000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,950xx,Individual,Dec-2014,debt_consolidation
+627,NC,150000.0,OWN,0.0,13.66,60.0,14000.0,Fully Paid,,282xx,Individual,Dec-2014,debt_consolidation
+628,NC,105000.0,MORTGAGE,0.0,7.49,36.0,30000.0,Fully Paid,,276xx,Individual,Dec-2014,debt_consolidation
+629,GA,65000.0,MORTGAGE,1.0,8.19,36.0,8000.0,Fully Paid,,301xx,Individual,Dec-2014,debt_consolidation
+630,OH,65000.0,MORTGAGE,0.0,19.99,60.0,15700.0,Fully Paid,,447xx,Individual,Dec-2014,debt_consolidation
+631,CA,153000.0,RENT,0.0,12.99,36.0,35000.0,Fully Paid,,921xx,Individual,Dec-2014,major_purchase
+632,TX,45000.0,RENT,0.0,13.66,36.0,6450.0,Fully Paid,,785xx,Individual,Dec-2014,debt_consolidation
+633,CA,100000.0,OWN,0.0,6.49,36.0,14000.0,Fully Paid,,900xx,Individual,Dec-2014,home_improvement
+634,SC,49000.0,MORTGAGE,1.0,8.19,36.0,12000.0,Fully Paid,,295xx,Individual,Dec-2014,debt_consolidation
+635,AL,50000.0,MORTGAGE,0.0,13.66,36.0,6000.0,Fully Paid,,354xx,Individual,Dec-2014,home_improvement
+636,UT,250000.0,MORTGAGE,0.0,10.49,36.0,30000.0,Fully Paid,,841xx,Individual,Dec-2014,debt_consolidation
+637,NJ,63000.0,RENT,0.0,11.44,60.0,25000.0,Current,Jan-2018,085xx,Individual,Dec-2014,debt_consolidation
+638,AZ,85000.0,MORTGAGE,0.0,6.49,36.0,20400.0,Fully Paid,,852xx,Individual,Dec-2014,debt_consolidation
+639,NY,140000.0,RENT,0.0,11.99,36.0,3800.0,Fully Paid,,108xx,Individual,Dec-2014,debt_consolidation
+640,CA,65000.0,RENT,0.0,17.14,60.0,29675.0,Late (31-120 days),Jan-2018,951xx,Individual,Dec-2014,debt_consolidation
+641,CA,60000.0,RENT,0.0,14.31,36.0,12950.0,Fully Paid,,956xx,Individual,Dec-2014,other
+642,CA,89000.0,MORTGAGE,0.0,6.49,36.0,7150.0,Fully Paid,,917xx,Individual,Dec-2014,other
+643,CA,55480.0,MORTGAGE,0.0,19.24,60.0,12375.0,Fully Paid,,953xx,Individual,Dec-2014,credit_card
+644,PA,52000.0,RENT,0.0,15.99,36.0,18625.0,Charged Off,,193xx,Individual,Dec-2014,small_business
+645,GA,35000.0,RENT,0.0,8.19,36.0,7000.0,Fully Paid,,306xx,Individual,Dec-2014,credit_card
+646,CA,35000.0,RENT,0.0,10.49,36.0,4000.0,Fully Paid,,921xx,Individual,Dec-2014,debt_consolidation
+647,TX,68940.0,MORTGAGE,0.0,15.99,36.0,30275.0,Charged Off,,780xx,Individual,Dec-2014,debt_consolidation
+648,IL,54000.0,MORTGAGE,0.0,20.99,36.0,15000.0,Fully Paid,,606xx,Individual,Dec-2014,debt_consolidation
+649,CO,150000.0,MORTGAGE,0.0,18.54,60.0,15000.0,Late (31-120 days),Jan-2018,800xx,Individual,Dec-2014,debt_consolidation
+650,NV,24000.0,MORTGAGE,0.0,7.49,36.0,8000.0,Fully Paid,,891xx,Individual,Dec-2014,debt_consolidation
+651,OR,52000.0,MORTGAGE,0.0,12.99,36.0,18750.0,Fully Paid,,975xx,Individual,Dec-2014,debt_consolidation
+652,MA,111000.0,MORTGAGE,0.0,24.99,60.0,35000.0,Fully Paid,,010xx,Individual,Dec-2014,debt_consolidation
+653,CO,230000.0,MORTGAGE,0.0,11.44,60.0,15000.0,Fully Paid,,801xx,Individual,Dec-2014,debt_consolidation
+654,CA,92000.0,RENT,0.0,24.99,60.0,14000.0,Late (31-120 days),Jan-2018,941xx,Individual,Dec-2014,medical
+655,MS,78000.0,MORTGAGE,1.0,10.49,36.0,9600.0,Charged Off,,395xx,Individual,Dec-2014,debt_consolidation
+656,WI,197000.0,MORTGAGE,0.0,10.49,60.0,35000.0,Current,Jan-2018,531xx,Individual,Dec-2014,credit_card
+657,NJ,38480.0,RENT,0.0,8.19,36.0,5000.0,Fully Paid,,082xx,Individual,Dec-2014,debt_consolidation
+658,TX,75000.0,OWN,0.0,14.99,36.0,2000.0,Fully Paid,,773xx,Individual,Dec-2014,major_purchase
+659,OR,49000.0,RENT,0.0,15.59,36.0,6400.0,Charged Off,,972xx,Individual,Dec-2014,debt_consolidation
+660,FL,40000.0,RENT,0.0,16.49,36.0,10000.0,Charged Off,,336xx,Individual,Dec-2014,debt_consolidation
+661,NY,96000.0,RENT,0.0,6.49,36.0,10000.0,Fully Paid,,100xx,Individual,Dec-2014,debt_consolidation
+662,VA,86400.0,RENT,0.0,12.99,36.0,8000.0,Fully Paid,,236xx,Individual,Dec-2014,other
+663,WV,99600.0,RENT,0.0,12.39,36.0,18000.0,Fully Paid,,254xx,Individual,Dec-2014,credit_card
+664,MO,43920.0,MORTGAGE,0.0,15.59,36.0,8000.0,Fully Paid,,641xx,Individual,Dec-2014,major_purchase
+665,NV,125000.0,MORTGAGE,0.0,6.49,36.0,5000.0,Fully Paid,,891xx,Individual,Dec-2014,debt_consolidation
+666,CA,150000.0,OWN,0.0,6.99,36.0,15000.0,Fully Paid,,921xx,Individual,Dec-2014,debt_consolidation
+667,CA,80000.0,RENT,0.0,6.99,36.0,14000.0,Fully Paid,,949xx,Individual,Dec-2014,credit_card
+668,GA,60000.0,RENT,0.0,13.66,36.0,14000.0,Fully Paid,,300xx,Individual,Dec-2014,debt_consolidation
+669,FL,125000.0,OWN,0.0,10.49,36.0,35000.0,Fully Paid,,322xx,Individual,Dec-2014,credit_card
+670,VA,40000.0,MORTGAGE,0.0,14.31,36.0,14000.0,Fully Paid,,224xx,Individual,Dec-2014,debt_consolidation
+671,LA,80000.0,MORTGAGE,0.0,11.44,36.0,20000.0,Fully Paid,,714xx,Individual,Dec-2014,debt_consolidation
+672,CA,63500.0,RENT,0.0,6.03,36.0,6500.0,Fully Paid,,958xx,Individual,Dec-2014,credit_card
+673,MI,47000.0,MORTGAGE,1.0,11.44,36.0,8000.0,Fully Paid,,482xx,Individual,Dec-2014,debt_consolidation
+674,LA,100000.0,OWN,0.0,9.49,36.0,2000.0,Fully Paid,,703xx,Individual,Dec-2014,other
+675,FL,90000.0,MORTGAGE,0.0,11.44,36.0,15000.0,Fully Paid,,331xx,Individual,Dec-2014,debt_consolidation
+676,CA,54000.0,RENT,0.0,12.99,36.0,5000.0,Charged Off,,907xx,Individual,Dec-2014,debt_consolidation
+677,AZ,45000.0,MORTGAGE,0.0,8.67,36.0,12000.0,Fully Paid,,850xx,Individual,Dec-2014,debt_consolidation
+678,OH,40000.0,MORTGAGE,0.0,15.59,36.0,1000.0,Fully Paid,,454xx,Individual,Dec-2014,other
+679,NY,135000.0,RENT,0.0,11.99,36.0,6000.0,Fully Paid,,112xx,Individual,Dec-2014,debt_consolidation
+680,UT,34750.0,OWN,0.0,14.99,36.0,8400.0,Current,Jan-2018,840xx,Individual,Dec-2014,debt_consolidation
+681,MA,550000.0,MORTGAGE,0.0,11.44,36.0,16000.0,Fully Paid,,017xx,Individual,Dec-2014,medical
+682,CA,60000.0,MORTGAGE,0.0,10.49,36.0,5400.0,Fully Paid,,917xx,Individual,Dec-2014,car
+683,VA,75000.0,MORTGAGE,0.0,18.54,60.0,11000.0,Charged Off,,242xx,Individual,Dec-2014,debt_consolidation
+684,AR,55000.0,RENT,0.0,8.67,36.0,4500.0,Fully Paid,,727xx,Individual,Dec-2014,debt_consolidation
+685,IN,75000.0,MORTGAGE,0.0,11.44,60.0,35000.0,Fully Paid,,461xx,Individual,Dec-2014,credit_card
+686,WA,55000.0,MORTGAGE,0.0,12.99,36.0,6400.0,Fully Paid,,983xx,Individual,Dec-2014,debt_consolidation
+687,TX,79000.0,RENT,0.0,7.49,36.0,16000.0,Fully Paid,,751xx,Individual,Dec-2014,other
+688,UT,32000.0,RENT,0.0,12.39,36.0,8000.0,Fully Paid,,841xx,Individual,Dec-2014,debt_consolidation
+689,LA,91000.0,RENT,0.0,14.99,36.0,20000.0,Fully Paid,,708xx,Individual,Dec-2014,major_purchase
+690,IN,45000.0,MORTGAGE,0.0,11.99,36.0,4700.0,Fully Paid,,479xx,Individual,Dec-2014,debt_consolidation
+691,CA,72000.0,RENT,0.0,6.03,36.0,25000.0,Fully Paid,,902xx,Individual,Dec-2014,credit_card
+692,CA,65000.0,RENT,0.0,6.99,36.0,12000.0,Fully Paid,,900xx,Individual,Dec-2014,debt_consolidation
+693,NH,77000.0,RENT,0.0,12.99,36.0,1000.0,Fully Paid,,038xx,Individual,Dec-2014,vacation
+694,MA,100070.0,MORTGAGE,0.0,8.19,36.0,10000.0,Fully Paid,,018xx,Individual,Dec-2014,medical
+695,FL,43000.0,RENT,0.0,9.49,36.0,8000.0,Fully Paid,,328xx,Individual,Dec-2014,credit_card
+696,IL,41600.0,MORTGAGE,0.0,17.86,36.0,16575.0,Fully Paid,,613xx,Individual,Dec-2014,debt_consolidation
+697,TX,300000.0,MORTGAGE,0.0,6.99,36.0,28000.0,Fully Paid,,787xx,Individual,Dec-2014,major_purchase
+698,MT,47000.0,MORTGAGE,0.0,8.19,60.0,12000.0,Current,Jan-2018,594xx,Individual,Dec-2014,debt_consolidation
+699,OH,42000.0,MORTGAGE,0.0,8.19,36.0,11450.0,Fully Paid,,435xx,Individual,Dec-2014,credit_card
+700,TX,84000.0,MORTGAGE,0.0,8.19,36.0,28000.0,Fully Paid,,760xx,Individual,Dec-2014,debt_consolidation
+701,NJ,27775.0,OWN,0.0,17.86,36.0,8325.0,Fully Paid,,078xx,Individual,Dec-2014,debt_consolidation
+702,IL,45000.0,RENT,0.0,17.86,60.0,10000.0,Current,Jan-2018,616xx,Individual,Dec-2014,other
+703,KY,152000.0,MORTGAGE,0.0,14.31,60.0,35000.0,Current,Jan-2018,405xx,Individual,Dec-2014,debt_consolidation
+704,WI,51000.0,RENT,0.0,9.49,60.0,13900.0,Current,Jan-2018,540xx,Individual,Dec-2014,credit_card
+705,VA,250000.0,RENT,0.0,14.99,60.0,25000.0,Current,Jan-2018,222xx,Individual,Dec-2014,debt_consolidation
+706,WI,125000.0,MORTGAGE,0.0,11.99,36.0,6000.0,Fully Paid,,535xx,Individual,Dec-2014,debt_consolidation
+707,VA,39000.0,RENT,0.0,11.99,36.0,3000.0,Fully Paid,,237xx,Individual,Dec-2014,credit_card
+708,OH,8892.0,RENT,0.0,12.39,36.0,1975.0,Fully Paid,,440xx,Individual,Dec-2014,debt_consolidation
+709,NJ,53000.0,RENT,0.0,14.31,36.0,9000.0,Current,Jan-2018,077xx,Individual,Dec-2014,debt_consolidation
+710,IL,49000.0,RENT,0.0,15.59,60.0,11300.0,Current,Jan-2018,607xx,Individual,Dec-2014,debt_consolidation
+711,WY,95000.0,RENT,0.0,13.66,36.0,10000.0,Fully Paid,,826xx,Individual,Dec-2014,debt_consolidation
+712,TN,120000.0,MORTGAGE,1.0,20.99,60.0,35000.0,Current,Jan-2018,381xx,Individual,Dec-2014,debt_consolidation
+713,TX,65000.0,RENT,0.0,17.14,60.0,15000.0,Late (31-120 days),Jan-2018,797xx,Individual,Dec-2014,debt_consolidation
+714,MD,70000.0,RENT,0.0,10.49,36.0,12000.0,Charged Off,,209xx,Individual,Dec-2014,credit_card
+715,KS,67200.0,RENT,0.0,13.66,36.0,20000.0,Fully Paid,,672xx,Individual,Dec-2014,credit_card
+716,OH,72800.0,MORTGAGE,0.0,12.39,60.0,12800.0,Fully Paid,,432xx,Individual,Dec-2014,debt_consolidation
+717,WI,38000.0,RENT,0.0,6.49,36.0,5000.0,Fully Paid,,530xx,Individual,Dec-2014,credit_card
+718,NY,94000.0,RENT,0.0,17.14,60.0,28000.0,Fully Paid,,106xx,Individual,Dec-2014,debt_consolidation
+719,CA,70000.0,MORTGAGE,0.0,14.99,36.0,32100.0,Fully Paid,,920xx,Individual,Dec-2014,home_improvement
+720,CO,43000.0,RENT,0.0,17.14,60.0,11500.0,Current,Jan-2018,808xx,Individual,Dec-2014,debt_consolidation
+721,IL,65000.0,MORTGAGE,0.0,14.31,60.0,20000.0,Current,Jan-2018,615xx,Individual,Dec-2014,debt_consolidation
+722,VA,52000.0,MORTGAGE,0.0,11.99,60.0,20000.0,Current,Jan-2018,236xx,Individual,Dec-2014,debt_consolidation
+723,FL,146928.0,MORTGAGE,0.0,10.49,36.0,6000.0,Fully Paid,,337xx,Individual,Dec-2014,debt_consolidation
+724,KS,40000.0,RENT,0.0,19.24,36.0,16750.0,Fully Paid,,675xx,Individual,Dec-2014,debt_consolidation
+725,TX,160000.0,MORTGAGE,0.0,6.99,36.0,25925.0,Fully Paid,,786xx,Individual,Dec-2014,credit_card
+726,TX,60000.0,MORTGAGE,0.0,12.39,36.0,5000.0,Fully Paid,,752xx,Individual,Dec-2014,debt_consolidation
+727,TX,42000.0,OWN,0.0,14.99,36.0,14125.0,Fully Paid,,754xx,Individual,Dec-2014,debt_consolidation
+728,NJ,60000.0,MORTGAGE,0.0,9.49,60.0,25000.0,Fully Paid,,070xx,Individual,Dec-2014,credit_card
+729,CA,70000.0,RENT,0.0,15.59,36.0,6425.0,Fully Paid,,940xx,Individual,Dec-2014,debt_consolidation
+730,MI,90000.0,MORTGAGE,0.0,9.49,60.0,10000.0,Current,Jan-2018,483xx,Individual,Dec-2014,credit_card
+731,NY,130000.0,RENT,1.0,6.49,36.0,16000.0,Fully Paid,,112xx,Individual,Dec-2014,car
+732,NJ,65000.0,RENT,0.0,6.49,36.0,25000.0,Fully Paid,,070xx,Individual,Dec-2014,debt_consolidation
+733,MO,65000.0,MORTGAGE,0.0,15.99,60.0,12000.0,Fully Paid,,633xx,Individual,Dec-2014,credit_card
+734,IL,34500.0,RENT,0.0,15.99,36.0,6925.0,Fully Paid,,617xx,Individual,Dec-2014,debt_consolidation
+735,NY,125000.0,MORTGAGE,0.0,9.49,60.0,28000.0,Fully Paid,,103xx,Individual,Dec-2014,credit_card
+736,AR,48648.88,MORTGAGE,0.0,12.39,36.0,5000.0,Late (16-30 days),Jan-2018,719xx,Individual,Dec-2014,debt_consolidation
+737,NY,220000.0,MORTGAGE,0.0,11.44,60.0,28000.0,Charged Off,,140xx,Individual,Dec-2014,debt_consolidation
+738,CA,30000.0,RENT,0.0,13.66,36.0,8000.0,Fully Paid,,900xx,Individual,Dec-2014,credit_card
+739,PA,46000.0,OWN,0.0,9.49,36.0,10000.0,Fully Paid,,153xx,Individual,Dec-2014,debt_consolidation
+740,PA,24000.0,OWN,0.0,11.44,36.0,8000.0,Fully Paid,,150xx,Individual,Dec-2014,credit_card
+741,TN,60000.0,MORTGAGE,0.0,12.99,36.0,20000.0,Fully Paid,,370xx,Individual,Dec-2014,debt_consolidation
+742,GA,77000.0,RENT,0.0,13.66,60.0,21000.0,Late (31-120 days),Jan-2018,302xx,Individual,Dec-2014,debt_consolidation
+743,OH,150000.0,MORTGAGE,0.0,8.19,36.0,10000.0,Charged Off,,430xx,Individual,Dec-2014,debt_consolidation
+744,CA,90000.0,MORTGAGE,0.0,8.19,36.0,4000.0,Fully Paid,,945xx,Individual,Dec-2014,home_improvement
+745,VA,62000.0,MORTGAGE,0.0,12.39,60.0,16000.0,Charged Off,,227xx,Individual,Dec-2014,debt_consolidation
+746,WI,42000.0,RENT,0.0,9.49,60.0,10000.0,Current,Jan-2018,535xx,Individual,Dec-2014,other
+747,CA,114000.0,MORTGAGE,0.0,7.49,36.0,20000.0,Fully Paid,,916xx,Individual,Dec-2014,debt_consolidation
+748,AZ,19600.0,OWN,0.0,13.66,36.0,5875.0,Fully Paid,,853xx,Individual,Dec-2014,medical
+749,CA,180000.0,RENT,0.0,11.99,36.0,20000.0,Fully Paid,,925xx,Individual,Dec-2014,debt_consolidation
+750,MN,73000.0,RENT,0.0,15.59,60.0,21000.0,Fully Paid,,553xx,Individual,Dec-2014,debt_consolidation
+751,TX,98700.0,MORTGAGE,0.0,14.31,36.0,19825.0,Fully Paid,,782xx,Individual,Dec-2014,debt_consolidation
+752,KY,83000.0,MORTGAGE,0.0,12.99,60.0,13000.0,Charged Off,,403xx,Individual,Dec-2014,credit_card
+753,CA,18372.0,RENT,0.0,15.99,36.0,7275.0,Charged Off,,958xx,Individual,Dec-2014,debt_consolidation
+754,WA,92000.0,MORTGAGE,0.0,12.39,36.0,8000.0,Fully Paid,,985xx,Individual,Dec-2014,credit_card
+755,TX,135000.0,MORTGAGE,0.0,11.44,60.0,28000.0,Current,Jan-2018,774xx,Individual,Dec-2014,debt_consolidation
+756,TX,80000.0,RENT,0.0,14.31,36.0,4000.0,Fully Paid,,760xx,Individual,Dec-2014,home_improvement
+757,TX,36000.0,RENT,0.0,14.31,36.0,15000.0,Charged Off,,773xx,Individual,Dec-2014,credit_card
+758,CA,108000.0,MORTGAGE,0.0,8.19,36.0,15000.0,Charged Off,,926xx,Individual,Dec-2014,credit_card
+759,CA,65000.0,RENT,0.0,8.67,36.0,8000.0,Fully Paid,,902xx,Individual,Dec-2014,debt_consolidation
+760,CA,80000.0,RENT,0.0,7.49,36.0,10000.0,Fully Paid,,905xx,Individual,Dec-2014,debt_consolidation
+761,TX,53800.0,MORTGAGE,0.0,12.39,60.0,26875.0,Charged Off,,787xx,Individual,Dec-2014,credit_card
+762,MD,32000.0,RENT,0.0,12.39,36.0,1000.0,Fully Paid,,212xx,Individual,Dec-2014,debt_consolidation
+763,FL,120000.0,MORTGAGE,0.0,7.49,36.0,24000.0,Current,Jan-2018,330xx,Individual,Dec-2014,debt_consolidation
+764,OH,29000.0,RENT,0.0,8.19,36.0,2200.0,Fully Paid,,451xx,Individual,Dec-2014,debt_consolidation
+765,NY,90000.0,MORTGAGE,0.0,8.67,36.0,28000.0,Fully Paid,,104xx,Individual,Dec-2014,debt_consolidation
+766,NY,220000.0,RENT,0.0,7.49,36.0,20000.0,Fully Paid,,100xx,Individual,Dec-2014,credit_card
+767,TX,102000.0,RENT,0.0,6.99,36.0,28000.0,Fully Paid,,787xx,Individual,Dec-2014,credit_card
+768,CA,56400.0,RENT,0.0,9.49,36.0,11000.0,Fully Paid,,905xx,Individual,Dec-2014,debt_consolidation
+769,TX,85000.0,OWN,0.0,14.99,60.0,35000.0,Current,Jan-2018,769xx,Individual,Dec-2014,major_purchase
+770,WA,23000.0,MORTGAGE,0.0,6.99,36.0,10475.0,Fully Paid,,985xx,Individual,Dec-2014,debt_consolidation
+771,TN,31000.0,MORTGAGE,0.0,11.44,36.0,2000.0,Fully Paid,,372xx,Individual,Dec-2014,debt_consolidation
+772,WI,101000.0,MORTGAGE,0.0,15.99,60.0,32000.0,Current,Jan-2018,544xx,Individual,Dec-2014,debt_consolidation
+773,PA,34000.0,MORTGAGE,0.0,10.49,36.0,6000.0,Fully Paid,,167xx,Individual,Dec-2014,credit_card
+774,IL,45000.0,RENT,0.0,8.67,36.0,5800.0,Fully Paid,,606xx,Individual,Dec-2014,other
+775,NH,65000.0,MORTGAGE,0.0,11.99,36.0,20000.0,Current,Jan-2018,030xx,Individual,Dec-2014,credit_card
+776,NY,55000.0,RENT,0.0,10.49,36.0,5000.0,Fully Paid,,117xx,Individual,Dec-2014,debt_consolidation
+777,IL,91000.0,RENT,0.0,7.49,36.0,20000.0,Fully Paid,,605xx,Individual,Dec-2014,credit_card
+778,AZ,60000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,852xx,Individual,Dec-2014,debt_consolidation
+779,WI,45000.0,RENT,0.0,19.99,36.0,15275.0,Fully Paid,,532xx,Individual,Dec-2014,vacation
+780,FL,105000.0,MORTGAGE,0.0,8.67,60.0,12000.0,Fully Paid,,320xx,Individual,Dec-2014,major_purchase
+781,CA,25000.0,RENT,0.0,12.39,36.0,4000.0,Fully Paid,,913xx,Individual,Dec-2014,debt_consolidation
+782,TX,44900.0,MORTGAGE,0.0,12.39,36.0,8400.0,Fully Paid,,762xx,Individual,Dec-2014,debt_consolidation
+783,CT,150000.0,MORTGAGE,0.0,9.49,36.0,20000.0,Fully Paid,,064xx,Individual,Dec-2014,debt_consolidation
+784,TX,54000.0,RENT,0.0,13.66,36.0,8400.0,Fully Paid,,750xx,Individual,Dec-2014,moving
+785,CA,45000.0,RENT,0.0,15.59,36.0,4000.0,Fully Paid,,926xx,Individual,Dec-2014,debt_consolidation
+786,UT,62000.0,MORTGAGE,0.0,6.99,36.0,10000.0,Fully Paid,,840xx,Individual,Dec-2014,credit_card
+787,TX,106000.0,MORTGAGE,0.0,9.49,36.0,7000.0,Fully Paid,,773xx,Individual,Dec-2014,credit_card
+788,LA,120000.0,OWN,0.0,8.67,36.0,35000.0,Fully Paid,,706xx,Individual,Dec-2014,credit_card
+789,AZ,72000.0,MORTGAGE,0.0,8.19,36.0,15000.0,Fully Paid,,857xx,Individual,Dec-2014,debt_consolidation
+790,TX,45000.0,MORTGAGE,0.0,8.19,36.0,12000.0,Fully Paid,,761xx,Individual,Dec-2014,debt_consolidation
+791,CA,38000.0,MORTGAGE,0.0,12.99,36.0,2925.0,Fully Paid,,936xx,Individual,Dec-2014,car
+792,TX,50000.0,MORTGAGE,1.0,6.99,36.0,5000.0,Fully Paid,,799xx,Individual,Dec-2014,debt_consolidation
+793,WA,50000.0,RENT,0.0,11.99,60.0,13200.0,Current,Jan-2018,980xx,Individual,Dec-2014,debt_consolidation
+794,NY,65000.0,RENT,0.0,6.49,36.0,7000.0,Fully Paid,,100xx,Individual,Dec-2014,debt_consolidation
+795,OH,53000.0,MORTGAGE,0.0,14.99,36.0,11750.0,Late (31-120 days),Jan-2018,444xx,Individual,Dec-2014,home_improvement
+796,CO,47000.0,MORTGAGE,0.0,14.99,36.0,7600.0,Charged Off,,802xx,Individual,Dec-2014,home_improvement
+797,NY,40000.0,RENT,0.0,15.59,36.0,1500.0,Charged Off,,104xx,Individual,Dec-2014,renewable_energy
+798,CA,44000.0,RENT,0.0,9.49,36.0,15450.0,Fully Paid,,900xx,Individual,Dec-2014,debt_consolidation
+799,PA,165000.0,MORTGAGE,0.0,7.49,36.0,10000.0,Fully Paid,,170xx,Individual,Dec-2014,credit_card
+800,NM,36180.0,MORTGAGE,0.0,10.49,60.0,13000.0,Current,Jan-2018,871xx,Individual,Dec-2014,debt_consolidation
+801,IL,110000.0,MORTGAGE,0.0,15.59,36.0,16450.0,Charged Off,,601xx,Individual,Dec-2014,debt_consolidation
+802,MI,450000.0,MORTGAGE,0.0,10.49,60.0,35000.0,Current,Jan-2018,495xx,Individual,Dec-2014,debt_consolidation
+803,MI,48000.0,RENT,0.0,9.49,36.0,16000.0,Fully Paid,,483xx,Individual,Dec-2014,debt_consolidation
+804,CA,45000.0,RENT,0.0,11.99,36.0,12000.0,Charged Off,,900xx,Individual,Dec-2014,credit_card
+805,NJ,75000.0,RENT,0.0,12.39,36.0,20000.0,Charged Off,,073xx,Individual,Dec-2014,other
+806,GA,21600.0,OWN,0.0,20.99,36.0,6425.0,Fully Paid,,300xx,Individual,Dec-2014,debt_consolidation
+807,CA,88000.0,RENT,0.0,10.49,60.0,17000.0,Fully Paid,,951xx,Individual,Dec-2014,credit_card
+808,NM,44928.0,OWN,0.0,15.59,36.0,16150.0,Current,Jan-2018,870xx,Individual,Dec-2014,debt_consolidation
+809,IL,75000.0,OWN,0.0,9.49,60.0,16000.0,Current,Jan-2018,606xx,Individual,Dec-2014,debt_consolidation
+810,MN,62397.83,MORTGAGE,0.0,6.99,36.0,9200.0,Fully Paid,,563xx,Individual,Dec-2014,car
+811,AZ,80000.0,MORTGAGE,0.0,8.67,36.0,12000.0,Fully Paid,,851xx,Individual,Dec-2014,home_improvement
+812,MD,335000.0,MORTGAGE,0.0,18.54,60.0,35000.0,Current,Jan-2018,207xx,Individual,Dec-2014,debt_consolidation
+813,NC,38500.0,OWN,0.0,10.49,36.0,14575.0,Fully Paid,,280xx,Individual,Dec-2014,credit_card
+814,AR,186000.0,MORTGAGE,0.0,14.31,36.0,10000.0,Fully Paid,,727xx,Individual,Dec-2014,major_purchase
+815,TX,72000.0,MORTGAGE,0.0,13.66,36.0,2000.0,Fully Paid,,765xx,Individual,Dec-2014,vacation
+816,NC,59000.0,RENT,0.0,18.54,60.0,10000.0,Current,Jan-2018,284xx,Individual,Dec-2014,debt_consolidation
+817,TX,38000.0,OWN,0.0,12.99,36.0,7200.0,Fully Paid,,770xx,Individual,Dec-2014,credit_card
+818,VA,67000.0,MORTGAGE,0.0,15.59,36.0,11200.0,Fully Paid,,234xx,Individual,Dec-2014,debt_consolidation
+819,NY,35000.0,RENT,0.0,14.99,36.0,8000.0,Fully Paid,,113xx,Individual,Dec-2014,debt_consolidation
+820,IL,100000.0,MORTGAGE,0.0,6.03,36.0,20000.0,Fully Paid,,601xx,Individual,Dec-2014,credit_card
+821,IL,90000.0,MORTGAGE,0.0,7.49,36.0,25000.0,Fully Paid,,606xx,Individual,Dec-2014,other
+822,MA,130000.0,MORTGAGE,0.0,11.44,60.0,28000.0,Fully Paid,,018xx,Individual,Dec-2014,debt_consolidation
+823,MO,60000.0,MORTGAGE,0.0,14.99,36.0,12000.0,Fully Paid,,640xx,Individual,Dec-2014,debt_consolidation
+824,CA,85000.0,RENT,0.0,6.49,36.0,28000.0,Fully Paid,,926xx,Individual,Dec-2014,credit_card
+825,MA,129000.0,RENT,0.0,13.66,60.0,31675.0,Current,Jan-2018,018xx,Individual,Dec-2014,credit_card
+826,NY,51000.0,RENT,0.0,9.49,36.0,9500.0,Fully Paid,,108xx,Individual,Dec-2014,credit_card
+827,NV,31289.0,MORTGAGE,0.0,9.49,36.0,9600.0,Fully Paid,,891xx,Individual,Dec-2014,home_improvement
+828,NY,43000.0,RENT,0.0,9.49,36.0,8000.0,Fully Paid,,121xx,Individual,Dec-2014,debt_consolidation
+829,FL,59000.0,RENT,0.0,11.99,36.0,2500.0,Fully Paid,,322xx,Individual,Dec-2014,other
+830,CA,111000.0,MORTGAGE,0.0,6.99,36.0,25000.0,Fully Paid,,902xx,Individual,Dec-2014,debt_consolidation
+831,AK,110000.0,RENT,1.0,15.99,36.0,28000.0,Late (31-120 days),Jan-2018,997xx,Individual,Dec-2014,medical
+832,CA,110000.0,RENT,0.0,9.49,36.0,7000.0,Fully Paid,,926xx,Individual,Dec-2014,credit_card
+833,IL,49000.0,MORTGAGE,0.0,8.67,60.0,12500.0,Current,Jan-2018,606xx,Individual,Dec-2014,credit_card
+834,CA,88000.0,RENT,0.0,12.39,60.0,15000.0,Charged Off,,926xx,Individual,Dec-2014,debt_consolidation
+835,CA,65000.0,MORTGAGE,0.0,24.5,60.0,27300.0,Current,Jan-2018,945xx,Individual,Dec-2014,debt_consolidation
+836,WA,45000.0,MORTGAGE,0.0,17.86,60.0,16200.0,Fully Paid,,989xx,Individual,Dec-2014,debt_consolidation
+837,NY,60800.0,RENT,0.0,6.49,36.0,18000.0,Fully Paid,,105xx,Individual,Dec-2014,credit_card
+838,CA,150000.0,MORTGAGE,0.0,8.67,36.0,20000.0,Charged Off,,920xx,Individual,Dec-2014,credit_card
+839,CA,18000.0,RENT,0.0,17.86,36.0,2400.0,Fully Paid,,917xx,Individual,Dec-2014,other
+840,NY,77500.0,OWN,2.0,8.19,36.0,12000.0,Charged Off,,107xx,Individual,Dec-2014,debt_consolidation
+841,PA,65000.0,MORTGAGE,0.0,11.44,36.0,20000.0,Fully Paid,,194xx,Individual,Dec-2014,home_improvement
+842,AL,100015.0,MORTGAGE,0.0,9.49,36.0,5000.0,Fully Paid,,359xx,Individual,Dec-2014,other
+843,CA,68500.0,MORTGAGE,0.0,12.99,60.0,16000.0,Fully Paid,,937xx,Individual,Dec-2014,credit_card
+844,NY,47784.0,RENT,0.0,14.99,36.0,16225.0,Fully Paid,,120xx,Individual,Dec-2014,debt_consolidation
+845,AK,63000.0,OWN,0.0,14.99,36.0,3000.0,Fully Paid,,997xx,Individual,Dec-2014,moving
+846,FL,255000.0,MORTGAGE,0.0,11.44,60.0,35000.0,Fully Paid,,328xx,Individual,Dec-2014,major_purchase
+847,AZ,88000.0,MORTGAGE,0.0,11.99,36.0,17000.0,Fully Paid,,853xx,Individual,Dec-2014,debt_consolidation
+848,VA,87000.0,MORTGAGE,0.0,10.49,60.0,27000.0,Current,Jan-2018,233xx,Individual,Dec-2014,credit_card
+849,HI,70000.0,RENT,0.0,23.99,60.0,26575.0,Charged Off,,967xx,Individual,Dec-2014,house
+850,MO,84000.0,MORTGAGE,0.0,11.44,36.0,10000.0,Current,Jan-2018,640xx,Individual,Dec-2014,debt_consolidation
+851,IL,150000.0,RENT,0.0,13.66,36.0,20000.0,Fully Paid,,600xx,Individual,Dec-2014,debt_consolidation
+852,MI,130000.0,MORTGAGE,0.0,10.49,36.0,21600.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+853,TX,110000.0,MORTGAGE,0.0,11.99,36.0,7000.0,Fully Paid,,770xx,Individual,Dec-2014,debt_consolidation
+854,SD,45000.0,RENT,0.0,8.67,36.0,12000.0,Fully Paid,,571xx,Individual,Dec-2014,debt_consolidation
+855,IL,85000.0,RENT,0.0,14.31,36.0,5000.0,Fully Paid,,604xx,Individual,Dec-2014,other
+856,TX,125000.0,OWN,0.0,6.99,36.0,15000.0,Fully Paid,,782xx,Individual,Dec-2014,credit_card
+857,CA,50000.0,RENT,0.0,15.59,36.0,17925.0,Fully Paid,,927xx,Individual,Dec-2014,debt_consolidation
+858,OR,16000.0,OWN,0.0,14.31,36.0,4200.0,Fully Paid,,973xx,Individual,Dec-2014,credit_card
+859,KS,45000.0,MORTGAGE,0.0,11.44,60.0,16800.0,Current,Jan-2018,673xx,Individual,Dec-2014,debt_consolidation
+860,TX,64000.0,MORTGAGE,0.0,8.19,36.0,9600.0,Fully Paid,,774xx,Individual,Dec-2014,debt_consolidation
+861,WA,100000.0,MORTGAGE,0.0,9.49,36.0,20000.0,Fully Paid,,993xx,Individual,Dec-2014,debt_consolidation
+862,MI,63000.0,MORTGAGE,0.0,8.19,36.0,15000.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+863,GA,55000.0,MORTGAGE,0.0,9.49,36.0,5600.0,Fully Paid,,305xx,Individual,Dec-2014,major_purchase
+864,CA,54000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,949xx,Individual,Dec-2014,debt_consolidation
+865,VA,43000.0,MORTGAGE,0.0,24.99,36.0,3850.0,Fully Paid,,224xx,Individual,Dec-2014,debt_consolidation
+866,MD,70000.0,RENT,0.0,13.66,36.0,30000.0,Fully Paid,,211xx,Individual,Dec-2014,credit_card
+867,NY,135000.0,RENT,0.0,12.39,36.0,20000.0,Fully Paid,,113xx,Individual,Dec-2014,credit_card
+868,MN,23998.0,OWN,0.0,13.66,36.0,8125.0,Charged Off,,550xx,Individual,Dec-2014,home_improvement
+869,PA,36000.0,RENT,0.0,18.54,36.0,3825.0,Fully Paid,,196xx,Individual,Dec-2014,debt_consolidation
+870,CA,71906.0,MORTGAGE,0.0,9.49,60.0,14400.0,Fully Paid,,956xx,Individual,Dec-2014,credit_card
+871,CA,110000.0,RENT,0.0,13.66,36.0,10000.0,Fully Paid,,915xx,Individual,Dec-2014,other
+872,MN,135000.0,OWN,0.0,8.19,36.0,11000.0,Fully Paid,,554xx,Individual,Dec-2014,credit_card
+873,OR,76000.0,OWN,0.0,6.49,36.0,6600.0,Fully Paid,,973xx,Individual,Dec-2014,credit_card
+874,SC,110000.0,OWN,0.0,18.54,60.0,11200.0,Fully Paid,,295xx,Individual,Dec-2014,medical
+875,WI,110000.0,RENT,0.0,8.19,36.0,20000.0,Fully Paid,,531xx,Individual,Dec-2014,debt_consolidation
+876,TX,26510.0,RENT,0.0,10.49,36.0,5600.0,Fully Paid,,760xx,Individual,Dec-2014,credit_card
+877,MI,50000.0,RENT,0.0,12.99,36.0,5000.0,Fully Paid,,481xx,Individual,Dec-2014,debt_consolidation
+878,MN,63000.0,MORTGAGE,0.0,13.66,36.0,12000.0,Fully Paid,,553xx,Individual,Dec-2014,debt_consolidation
+879,CA,90000.0,RENT,0.0,6.49,36.0,15000.0,Fully Paid,,940xx,Individual,Dec-2014,debt_consolidation
+880,CA,43000.0,OWN,0.0,16.49,36.0,6000.0,Fully Paid,,907xx,Individual,Dec-2014,home_improvement
+881,CA,76735.0,RENT,0.0,6.49,36.0,15000.0,Fully Paid,,950xx,Individual,Dec-2014,credit_card
+882,NY,100000.0,OWN,0.0,6.03,36.0,7500.0,Fully Paid,,142xx,Individual,Dec-2014,debt_consolidation
+883,OH,62000.0,OWN,0.0,6.49,36.0,18000.0,Fully Paid,,440xx,Individual,Dec-2014,debt_consolidation
+884,MS,26000.0,RENT,0.0,12.39,36.0,8000.0,Fully Paid,,396xx,Individual,Dec-2014,credit_card
+885,NY,36000.0,MORTGAGE,0.0,12.39,36.0,13225.0,Fully Paid,,117xx,Individual,Dec-2014,debt_consolidation
+886,CA,115000.0,MORTGAGE,0.0,8.67,36.0,3000.0,Fully Paid,,956xx,Individual,Dec-2014,debt_consolidation
+887,VA,70000.0,RENT,0.0,12.99,36.0,14975.0,Fully Paid,,226xx,Individual,Dec-2014,debt_consolidation
+888,FL,186000.0,MORTGAGE,0.0,6.99,36.0,33800.0,Fully Paid,,663xx,Individual,Dec-2014,credit_card
+889,NY,79600.0,RENT,0.0,11.44,36.0,7500.0,Fully Paid,,115xx,Individual,Dec-2014,credit_card
+890,KY,50000.0,MORTGAGE,0.0,14.31,36.0,8000.0,Fully Paid,,410xx,Individual,Dec-2014,debt_consolidation
+891,AZ,140000.0,RENT,0.0,7.49,36.0,8000.0,Fully Paid,,864xx,Individual,Dec-2014,debt_consolidation
+892,WA,61000.0,RENT,0.0,12.39,36.0,12000.0,Fully Paid,,980xx,Individual,Dec-2014,debt_consolidation
+893,CA,52000.0,RENT,0.0,11.99,36.0,12000.0,Charged Off,,945xx,Individual,Dec-2014,debt_consolidation
+894,AZ,58000.0,MORTGAGE,0.0,7.49,36.0,9000.0,Fully Paid,,853xx,Individual,Dec-2014,debt_consolidation
+895,CA,185000.0,RENT,0.0,16.49,36.0,35000.0,Fully Paid,,951xx,Individual,Dec-2014,credit_card
+896,FL,74200.0,MORTGAGE,0.0,17.14,60.0,18000.0,Charged Off,,347xx,Individual,Dec-2014,debt_consolidation
+897,NC,50000.0,OWN,0.0,15.99,60.0,12000.0,Fully Paid,,276xx,Individual,Dec-2014,debt_consolidation
+898,MN,65000.0,MORTGAGE,0.0,11.44,60.0,30000.0,Fully Paid,,563xx,Individual,Dec-2014,credit_card
+899,AR,58000.0,MORTGAGE,0.0,11.99,36.0,2725.0,Fully Paid,,729xx,Individual,Dec-2014,debt_consolidation
+900,MN,116000.0,MORTGAGE,0.0,8.19,60.0,24500.0,Current,Jan-2018,562xx,Individual,Dec-2014,debt_consolidation
+901,NY,80000.0,OWN,5.0,8.67,36.0,10000.0,Fully Paid,,115xx,Individual,Dec-2014,home_improvement
+902,CO,140000.0,RENT,0.0,12.99,36.0,14000.0,Fully Paid,,803xx,Individual,Dec-2014,credit_card
+903,NV,32000.0,RENT,0.0,19.24,60.0,11200.0,Charged Off,,891xx,Individual,Dec-2014,credit_card
+904,UT,102000.0,MORTGAGE,0.0,14.31,36.0,12000.0,Fully Paid,,840xx,Individual,Dec-2014,debt_consolidation
+905,TX,66000.0,MORTGAGE,0.0,8.67,36.0,15000.0,Charged Off,,761xx,Individual,Dec-2014,home_improvement
+906,WA,57708.0,MORTGAGE,0.0,12.99,60.0,25000.0,Fully Paid,,988xx,Individual,Dec-2014,debt_consolidation
+907,IN,99826.0,MORTGAGE,0.0,14.31,60.0,15000.0,Current,Jan-2018,468xx,Individual,Dec-2014,debt_consolidation
+908,TN,41000.0,RENT,0.0,7.49,36.0,6000.0,Fully Paid,,370xx,Individual,Dec-2014,credit_card
+909,NV,58000.0,MORTGAGE,0.0,7.49,36.0,14400.0,Fully Paid,,890xx,Individual,Dec-2014,credit_card
+910,CA,92000.0,RENT,0.0,10.49,36.0,20000.0,Fully Paid,,956xx,Individual,Dec-2014,debt_consolidation
+911,NJ,88500.0,MORTGAGE,0.0,7.49,36.0,28000.0,Fully Paid,,074xx,Individual,Dec-2014,debt_consolidation
+912,TX,180000.0,MORTGAGE,0.0,12.99,36.0,21000.0,Fully Paid,,775xx,Individual,Dec-2014,credit_card
+913,CA,120000.0,MORTGAGE,0.0,11.44,60.0,20000.0,Fully Paid,,920xx,Individual,Dec-2014,credit_card
+914,NC,156000.0,MORTGAGE,0.0,8.19,36.0,28000.0,Fully Paid,,280xx,Individual,Dec-2014,house
+915,NJ,172000.0,OWN,0.0,14.31,36.0,5500.0,Fully Paid,,082xx,Individual,Dec-2014,other
+916,CT,48000.0,RENT,0.0,13.66,36.0,10500.0,Fully Paid,,066xx,Individual,Dec-2014,credit_card
+917,MI,48000.0,MORTGAGE,0.0,8.19,36.0,14400.0,Fully Paid,,481xx,Individual,Dec-2014,credit_card
+918,AL,110000.0,RENT,0.0,6.49,36.0,15000.0,Fully Paid,,352xx,Individual,Dec-2014,credit_card
+919,IN,82000.0,MORTGAGE,0.0,17.86,36.0,8000.0,Charged Off,,463xx,Individual,Dec-2014,debt_consolidation
+920,IL,160000.0,MORTGAGE,0.0,8.67,36.0,35000.0,Fully Paid,,605xx,Individual,Dec-2014,credit_card
+921,CA,55000.0,RENT,0.0,18.54,60.0,24125.0,Late (31-120 days),Jan-2018,941xx,Individual,Dec-2014,credit_card
+922,NY,58000.0,MORTGAGE,0.0,17.14,60.0,26500.0,Fully Paid,,117xx,Individual,Dec-2014,credit_card
+923,PA,60000.0,MORTGAGE,0.0,8.19,36.0,18000.0,Fully Paid,,173xx,Individual,Dec-2014,credit_card
+924,PA,51000.0,RENT,0.0,6.99,36.0,4000.0,Current,Jan-2018,151xx,Individual,Dec-2014,credit_card
+925,CO,52000.0,MORTGAGE,0.0,7.49,36.0,8000.0,Fully Paid,,810xx,Individual,Dec-2014,credit_card
+926,NY,66000.0,RENT,0.0,17.14,60.0,20000.0,Fully Paid,,113xx,Individual,Dec-2014,debt_consolidation
+927,WI,65000.0,MORTGAGE,0.0,15.99,36.0,8800.0,Fully Paid,,544xx,Individual,Dec-2014,debt_consolidation
+928,CA,103000.0,RENT,0.0,16.49,36.0,30000.0,Fully Paid,,950xx,Individual,Dec-2014,debt_consolidation
+929,CA,82500.0,MORTGAGE,0.0,8.67,60.0,20000.0,Current,Jan-2018,939xx,Individual,Dec-2014,home_improvement
+930,SC,50000.0,MORTGAGE,0.0,11.44,36.0,9000.0,Fully Paid,,292xx,Individual,Dec-2014,debt_consolidation
+931,PA,85000.0,MORTGAGE,0.0,10.49,60.0,35000.0,Current,Jan-2018,166xx,Individual,Dec-2014,credit_card
+932,NC,85000.0,MORTGAGE,0.0,11.99,60.0,28000.0,Current,Jan-2018,274xx,Individual,Dec-2014,debt_consolidation
+933,WI,160000.0,RENT,0.0,6.49,36.0,25000.0,Fully Paid,,100xx,Individual,Dec-2014,debt_consolidation
+934,OH,40000.0,RENT,0.0,23.99,60.0,14375.0,Charged Off,,456xx,Individual,Dec-2014,debt_consolidation
+935,OR,90000.0,MORTGAGE,0.0,8.67,60.0,15000.0,Fully Paid,,970xx,Individual,Dec-2014,debt_consolidation
+936,CA,50000.0,MORTGAGE,0.0,16.49,36.0,2400.0,Fully Paid,,922xx,Individual,Dec-2014,other
+937,IN,30000.0,MORTGAGE,0.0,13.66,36.0,10000.0,Fully Paid,,462xx,Individual,Dec-2014,debt_consolidation
+938,WA,150000.0,MORTGAGE,0.0,14.31,60.0,34850.0,Fully Paid,,980xx,Individual,Dec-2014,debt_consolidation
+939,GA,63000.0,OWN,0.0,19.99,60.0,15000.0,Fully Paid,,319xx,Individual,Dec-2014,debt_consolidation
+940,CA,100000.0,MORTGAGE,0.0,12.99,60.0,35000.0,Current,Jan-2018,952xx,Individual,Dec-2014,credit_card
+941,PA,50566.0,RENT,0.0,9.49,36.0,10000.0,Fully Paid,,190xx,Individual,Dec-2014,credit_card
+942,NV,48000.0,RENT,0.0,12.39,36.0,10000.0,Fully Paid,,891xx,Individual,Dec-2014,debt_consolidation
+943,AZ,116400.0,RENT,0.0,12.99,60.0,24000.0,Current,Jan-2018,850xx,Individual,Dec-2014,debt_consolidation
+944,TX,65000.0,OWN,0.0,11.99,60.0,24000.0,Fully Paid,,770xx,Individual,Dec-2014,credit_card
+945,NY,100000.0,RENT,1.0,7.49,36.0,20000.0,Fully Paid,,105xx,Individual,Dec-2014,credit_card
+946,FL,90000.0,MORTGAGE,0.0,22.99,60.0,35000.0,Fully Paid,,336xx,Individual,Dec-2014,home_improvement
+947,NJ,90000.0,MORTGAGE,0.0,14.31,60.0,32000.0,Fully Paid,,083xx,Individual,Dec-2014,credit_card
+948,CA,300000.0,MORTGAGE,0.0,6.99,36.0,20000.0,Fully Paid,,926xx,Individual,Dec-2014,debt_consolidation
+949,CA,90000.0,MORTGAGE,0.0,11.99,36.0,20000.0,Fully Paid,,921xx,Individual,Dec-2014,home_improvement
+950,NV,32000.0,RENT,0.0,8.19,36.0,6300.0,Fully Paid,,891xx,Individual,Dec-2014,credit_card
+951,NV,115000.0,RENT,0.0,12.99,36.0,8000.0,Charged Off,,890xx,Individual,Dec-2014,debt_consolidation
+952,MS,42500.0,MORTGAGE,0.0,8.67,60.0,18000.0,Fully Paid,,392xx,Individual,Dec-2014,debt_consolidation
+953,NJ,52000.0,MORTGAGE,0.0,14.99,60.0,19725.0,Charged Off,,808xx,Individual,Dec-2014,credit_card
+954,MN,58800.0,RENT,0.0,8.67,36.0,18000.0,Fully Paid,,551xx,Individual,Dec-2014,debt_consolidation
+955,MN,79000.0,MORTGAGE,0.0,6.49,36.0,15000.0,Late (31-120 days),Jan-2018,553xx,Individual,Dec-2014,debt_consolidation
+956,AR,79000.0,RENT,0.0,8.19,36.0,9900.0,Fully Paid,,721xx,Individual,Dec-2014,credit_card
+957,FL,33550.4,RENT,0.0,12.99,36.0,8000.0,Fully Paid,,330xx,Individual,Dec-2014,debt_consolidation
+958,TX,24000.0,MORTGAGE,0.0,12.99,36.0,3000.0,Fully Paid,,762xx,Individual,Dec-2014,credit_card
+959,TX,114000.0,MORTGAGE,0.0,6.49,36.0,20000.0,Fully Paid,,775xx,Individual,Dec-2014,credit_card
+960,PA,45000.0,RENT,0.0,9.49,36.0,12000.0,Fully Paid,,160xx,Individual,Dec-2014,credit_card
+961,TX,42000.0,MORTGAGE,0.0,12.99,36.0,4800.0,Fully Paid,,760xx,Individual,Dec-2014,debt_consolidation
+962,MI,98000.0,MORTGAGE,0.0,19.24,60.0,14000.0,Current,Jan-2018,499xx,Individual,Dec-2014,credit_card
+963,CA,168000.0,MORTGAGE,0.0,8.67,36.0,35000.0,Fully Paid,,922xx,Individual,Dec-2014,debt_consolidation
+964,NH,120000.0,MORTGAGE,0.0,6.49,36.0,28000.0,Fully Paid,,032xx,Individual,Dec-2014,credit_card
+965,WI,55000.0,RENT,0.0,6.03,36.0,10000.0,Fully Paid,,545xx,Individual,Dec-2014,debt_consolidation
+966,FL,80000.0,RENT,0.0,14.99,36.0,12000.0,Fully Paid,,328xx,Individual,Dec-2014,debt_consolidation
+967,IN,88000.0,OWN,0.0,8.67,60.0,22000.0,Fully Paid,,463xx,Individual,Dec-2014,credit_card
+968,MS,38000.0,MORTGAGE,0.0,6.03,36.0,5000.0,Fully Paid,,395xx,Individual,Dec-2014,debt_consolidation
+969,IL,30000.0,RENT,0.0,10.49,36.0,6000.0,Fully Paid,,610xx,Individual,Dec-2014,debt_consolidation
+970,CA,145000.0,RENT,0.0,17.14,60.0,21000.0,Fully Paid,,944xx,Individual,Dec-2014,debt_consolidation
+971,WI,85000.0,MORTGAGE,0.0,11.99,36.0,20000.0,Charged Off,,539xx,Individual,Dec-2014,debt_consolidation
+972,CA,89000.0,RENT,0.0,6.49,36.0,28000.0,Fully Paid,,940xx,Individual,Dec-2014,debt_consolidation
+973,CA,90000.0,MORTGAGE,0.0,8.67,36.0,24000.0,Fully Paid,,953xx,Individual,Dec-2014,credit_card
+974,TN,85000.0,MORTGAGE,0.0,21.99,60.0,25000.0,Fully Paid,,370xx,Individual,Dec-2014,credit_card
+975,NM,85964.62,MORTGAGE,0.0,6.03,36.0,8125.0,Fully Paid,,871xx,Individual,Dec-2014,other
+976,TX,65000.0,MORTGAGE,0.0,8.19,36.0,3500.0,Fully Paid,,762xx,Individual,Dec-2014,home_improvement
+977,CA,150000.0,MORTGAGE,0.0,11.44,60.0,35000.0,Fully Paid,,956xx,Individual,Dec-2014,debt_consolidation
+978,FL,170000.0,RENT,1.0,7.49,36.0,11200.0,Fully Paid,,327xx,Individual,Dec-2014,credit_card
+979,MI,35000.0,MORTGAGE,0.0,16.49,36.0,17475.0,Fully Paid,,482xx,Individual,Dec-2014,debt_consolidation
+980,CT,65000.0,RENT,0.0,11.99,36.0,16000.0,Current,Jan-2018,062xx,Individual,Dec-2014,credit_card
+981,TX,63000.0,RENT,0.0,14.99,36.0,1500.0,Fully Paid,,761xx,Individual,Dec-2014,other
+982,GA,68000.0,RENT,0.0,15.99,36.0,9600.0,Charged Off,,306xx,Individual,Dec-2014,debt_consolidation
+983,WI,82000.0,MORTGAGE,0.0,10.49,36.0,5000.0,Fully Paid,,531xx,Individual,Dec-2014,other
+984,CA,40000.0,RENT,0.0,11.99,36.0,10000.0,Fully Paid,,908xx,Individual,Dec-2014,debt_consolidation
+985,TX,38000.0,RENT,0.0,14.31,60.0,12000.0,Fully Paid,,794xx,Individual,Dec-2014,credit_card
+986,CO,62800.0,RENT,0.0,12.99,36.0,16700.0,Fully Paid,,809xx,Individual,Dec-2014,debt_consolidation
+987,CA,85000.0,MORTGAGE,0.0,13.66,36.0,16000.0,In Grace Period,Jan-2018,956xx,Individual,Dec-2014,debt_consolidation
+988,GA,54000.0,RENT,0.0,13.66,60.0,13000.0,Current,Jan-2018,301xx,Individual,Dec-2014,debt_consolidation
+989,TN,30000.0,MORTGAGE,0.0,11.44,60.0,10000.0,Fully Paid,,381xx,Individual,Dec-2014,credit_card
+990,NM,149500.0,MORTGAGE,0.0,6.49,36.0,15000.0,Fully Paid,,871xx,Individual,Dec-2014,home_improvement
+991,NJ,52200.0,MORTGAGE,0.0,15.59,60.0,18675.0,Fully Paid,,083xx,Individual,Dec-2014,debt_consolidation
+992,VA,87000.0,MORTGAGE,0.0,10.49,36.0,10000.0,Charged Off,,223xx,Individual,Dec-2014,credit_card
+993,AZ,65000.0,RENT,0.0,18.54,60.0,28500.0,Current,Jan-2018,853xx,Individual,Dec-2014,debt_consolidation
+994,NY,83000.0,MORTGAGE,0.0,6.99,36.0,13600.0,Fully Paid,,112xx,Individual,Dec-2014,home_improvement
+995,NJ,90300.0,MORTGAGE,0.0,17.14,60.0,27725.0,Charged Off,,085xx,Individual,Dec-2014,debt_consolidation
+996,GA,80000.0,MORTGAGE,0.0,14.31,60.0,17000.0,Fully Paid,,303xx,Individual,Dec-2014,debt_consolidation
+997,TN,91500.0,OWN,0.0,19.99,60.0,16850.0,Current,Jan-2018,370xx,Individual,Dec-2014,credit_card
+998,FL,200000.0,MORTGAGE,0.0,8.19,60.0,18000.0,Fully Paid,,329xx,Individual,Dec-2014,home_improvement
+999,PA,32880.0,MORTGAGE,0.0,14.99,36.0,5000.0,Fully Paid,,150xx,Individual,Dec-2014,other
