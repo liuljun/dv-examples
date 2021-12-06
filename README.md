@@ -2,9 +2,9 @@
 This repository will contain examples on how to use IBM data virtualization service on Cloud Pak for Data (aaS)
 
 
-1. Lakehouse using DV/Watson Query
+1. Lakehouse using DV
 
-Step 1: Add object store connection into DV/Watson Query. 
+Step 1: Add object store connection into DV
 Video - https://github.com/liuljun/dv-examples/blob/main/1.%20Add%20IBM%20cloud%20object%20storage%20to%20Data%20Virtualization.mp4 
 Note: for IBM cloud object storage, the service credential needs to enable "Include HMAC Credential" in the "Advanced options". Then you are able to find the "access_key_id" and "secret_access_key" in the service credential.
 
